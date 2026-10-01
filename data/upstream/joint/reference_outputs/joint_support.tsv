@@ -1,0 +1,49 @@
+cohort	pair	min_per_joint_state	eligible_families	eligible_genomes	families
+original_primary	KdpABC__CoxCut	2	11	428	Beijerinckiaceae;Burkholderiaceae;CSP1-4;Gaiellaceae;Pseudonocardiaceae;Pyrinomonadaceae;RAAP-2;Solirubrobacteraceae;Steroidobacteraceae;UBA7541;Vulcanimicrobiaceae
+original_primary	KdpABC__CoxCut	3	6	298	Burkholderiaceae;CSP1-4;Gaiellaceae;Pseudonocardiaceae;RAAP-2;Solirubrobacteraceae
+original_primary	KdpABC__CoxCut	5	2	114	Gaiellaceae;Solirubrobacteraceae
+original_primary	ProVWX__CoxCut	2	3	125	CSP1-4;Pseudonocardiaceae;Rubrobacteraceae
+original_primary	ProVWX__CoxCut	3	2	80	Pseudonocardiaceae;Rubrobacteraceae
+original_primary	ProVWX__CoxCut	5	1	38	Rubrobacteraceae
+original_primary	EctABC__CoxCut	2	2	72	Nocardioidaceae;Pseudonocardiaceae
+original_primary	EctABC__CoxCut	3	1	42	Pseudonocardiaceae
+original_primary	EctABC__CoxCut	5	0	0	
+original_primary	BetAB__CoxCut	2	2	85	Pseudonocardiaceae;Steroidobacteraceae
+original_primary	BetAB__CoxCut	3	0	0	
+original_primary	BetAB__CoxCut	5	0	0	
+original_strict	KdpABC__CoxCut	2	2	41	Burkholderiaceae;RAAP-2
+original_strict	KdpABC__CoxCut	3	2	41	Burkholderiaceae;RAAP-2
+original_strict	KdpABC__CoxCut	5	0	0	
+original_strict	ProVWX__CoxCut	2	0	0	
+original_strict	ProVWX__CoxCut	3	0	0	
+original_strict	ProVWX__CoxCut	5	0	0	
+original_strict	EctABC__CoxCut	2	0	0	
+original_strict	EctABC__CoxCut	3	0	0	
+original_strict	EctABC__CoxCut	5	0	0	
+original_strict	BetAB__CoxCut	2	0	0	
+original_strict	BetAB__CoxCut	3	0	0	
+original_strict	BetAB__CoxCut	5	0	0	
+new_desert_primary	KdpABC__CoxCut	2	0	0	
+new_desert_primary	KdpABC__CoxCut	3	0	0	
+new_desert_primary	KdpABC__CoxCut	5	0	0	
+new_desert_primary	ProVWX__CoxCut	2	2	64	Nocardioidaceae;Rubrobacteraceae
+new_desert_primary	ProVWX__CoxCut	3	2	64	Nocardioidaceae;Rubrobacteraceae
+new_desert_primary	ProVWX__CoxCut	5	1	42	Rubrobacteraceae
+new_desert_primary	EctABC__CoxCut	2	0	0	
+new_desert_primary	EctABC__CoxCut	3	0	0	
+new_desert_primary	EctABC__CoxCut	5	0	0	
+new_desert_primary	BetAB__CoxCut	2	1	22	Nocardioidaceae
+new_desert_primary	BetAB__CoxCut	3	1	22	Nocardioidaceae
+new_desert_primary	BetAB__CoxCut	5	0	0	
+new_desert_strict	KdpABC__CoxCut	2	0	0	
+new_desert_strict	KdpABC__CoxCut	3	0	0	
+new_desert_strict	KdpABC__CoxCut	5	0	0	
+new_desert_strict	ProVWX__CoxCut	2	0	0	
+new_desert_strict	ProVWX__CoxCut	3	0	0	
+new_desert_strict	ProVWX__CoxCut	5	0	0	
+new_desert_strict	EctABC__CoxCut	2	0	0	
+new_desert_strict	EctABC__CoxCut	3	0	0	
+new_desert_strict	EctABC__CoxCut	5	0	0	
+new_desert_strict	BetAB__CoxCut	2	0	0	
+new_desert_strict	BetAB__CoxCut	3	0	0	
+new_desert_strict	BetAB__CoxCut	5	0	0	

@@ -1,0 +1,14 @@
+DPFQ008 matched within-MAG context enrichment
+targets=63
+carrier_MAGs=61
+length_tolerance=0.2
+flank=5
+permutations=100000
+seed=20260719
+observed_positive_MAGs=53/61
+empirical_MAG_p_ge=9.9999e-06
+observed_positive_proteins=54/63
+empirical_protein_p_ge=9.9999e-06
+control_scope=same MAG; input protein universe; matched length and complete/truncated window; target-window overlaps excluded
+claim_boundary=enrichment supports non-random genomic context but not substrate, flux, expression, or activity
+status=PASS

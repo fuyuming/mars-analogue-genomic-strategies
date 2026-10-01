@@ -1,0 +1,7 @@
+DPFQ008 strict-set gene tree
+sequences=63
+alignment_columns=586
+inference=IQ-TREE2 ModelFinder; 1000 ultrafast bootstrap; 1000 SH-aLRT
+rooting=unrooted
+claim_boundary=gene tree describes sequence relationships; it does not alone demonstrate horizontal transfer
+status=PASS

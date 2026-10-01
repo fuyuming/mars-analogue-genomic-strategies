@@ -1,0 +1,19 @@
+{
+  "sample_count": 4,
+  "fastq_count": 8,
+  "target_ko_count": 65,
+  "normalizer_ko_count": 20,
+  "primary_sample_ko_detections": 217,
+  "primary_unique_kos_detected": 58,
+  "primary_mate_replicated_detections": 216,
+  "no_inferential_p_values": true,
+  "output_sha256": {
+    "fastq_assignment_counts.tsv": "e684e935afdb6ee81742e144cb7908cc410595fec6c65803f0401c55fbd6712e",
+    "assignment_outcomes.tsv": "24657ba61b34f7c1356f581d23690f0fba6fd7c8c046bae76cd8e1232804bb40",
+    "fastq_recruitment_qc.tsv": "e452f585768eabb5bbc5635fc136abb48750f017659ca8e94e005f735f67212b",
+    "sample_target_KO_recruitment.tsv": "1c4a367bc194ddb8a905922f22fd2b376f79df4dce4db227ba423d09f7e34de5",
+    "sample_normalization_marker_recruitment.tsv": "bf776f415f093c89e58e962332292820ec46e4084ad8ca3a2eea1c497f2a2879",
+    "sample_strategy_recruitment.tsv": "f82eb1dc72844995c415bbee67830e1a9bdde7191bd862732d01c8c351e234f7",
+    "threshold_sensitivity_concordance.tsv": "ab00250bf9bb7a79adc375e0b12328d17361e1accd0a7e74bf03429288a5aba8"
+  }
+}

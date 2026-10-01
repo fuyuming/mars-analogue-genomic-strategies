@@ -1,0 +1,5 @@
+sample_id	sample_title	total_input_reads	queries_with_reported_hits	reported_hit_query_fraction	accepted_broad_target_or_normalizer_reads	accepted_broad_read_fraction	broad_target_KOs_detected	broad_target_KOs_mate_replicated	primary_target_KOs_detected	primary_target_KOs_mate_replicated	stringent_target_KOs_detected	stringent_target_KOs_mate_replicated
+SRR18183467	Last Chance Cave coral digitate	2156304	1498147	0.6947754120012762	23489	0.010893176472334141	54	53	53	52	52	51
+SRR18183468	Indian Tunnel white powder	6469732	4969797	0.7681611850382675	89465	0.01382823894405518	55	55	54	54	53	53
+SRR18183469	Indian Tunnel white crystals	3216966	2246683	0.6983856839021613	35055	0.010896913427123569	56	56	55	55	55	55
+SRR18183470	Hidden Cave coral digitate	6041346	4644939	0.7688582974721196	79874	0.013221225865891474	55	55	55	55	53	53

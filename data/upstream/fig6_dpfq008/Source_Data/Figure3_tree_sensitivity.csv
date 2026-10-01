@@ -1,0 +1,5 @@
+analysis,n_representatives,n_distance_pairs,spearman_rho,permutations,empirical_p,interpretation
+Primary: all ANI95 representatives,58,1653,0.666490363344695,9999,1e-04,Prespecified primary gene-host patristic-distance association
+Sensitivity: Qaidam ANI95 representatives only,51,1275,0.735693440144324,9999,1e-04,Within-dominant-source association
+Sensitivity: non-Qaidam ANI95 representatives only,7,21,0.807792207792208,5039,0.00654761904761905,Small cross-environment subset; underpowered and descriptive
+Sensitivity: pairs containing at least one non-Qaidam representative,58,378,0.305378170995494,9999,1e-04,Label permutation after excluding all Qaidam-Qaidam distance pairs

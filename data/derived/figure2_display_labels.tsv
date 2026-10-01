@@ -1,0 +1,17 @@
+domain	lineage_id	name	genomes	row
+Bacteria	B_L001	Actinomycetota	820	67
+Bacteria	B_L006	Gammaproteobacteria	345	21
+Bacteria	B_L048	Acidobacteriota	332	39
+Bacteria	B_L005	Bacteroidota	209	45
+Bacteria	B_L008	Rhizobiales	110	15
+Bacteria	B_L044	Verrucomicrobiota	99	58
+Bacteria	B_L030	Patescibacteriota	57	72
+Bacteria	B_L012	Caulobacterales	26	11
+Bacteria	B_L033	Polyangia	24	32
+Bacteria	B_L046	Desulfobacterota_B	21	26
+Archaea	A_L004	Halobacteriota	170	0
+Archaea	A_L002	Thermoplasmatota	19	1
+Archaea	A_L005	Methanobacteriota	3	2
+Archaea	A_L001	Thermoproteota	29	3
+Archaea	A_L006	Nanohalarchaeota	9	4
+Archaea	A_L003	Micrarchaeota	3	5

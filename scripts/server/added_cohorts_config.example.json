@@ -1,0 +1,12 @@
+{
+  "workdir": "/path/to/workdir",
+  "manifest": "/path/to/manifest",
+  "expected_count": 607,
+  "threads": 16,
+  "download_wait_hours": 24,
+  "gtdb_env": "/path/to/gtdb_env",
+  "checkm_env": "/path/to/checkm_env",
+  "checkm_db": "/path/to/checkm_db",
+  "kofam_dir": "/path/to/kofam_dir",
+  "gtdb_data": "/path/to/gtdb_data"
+}

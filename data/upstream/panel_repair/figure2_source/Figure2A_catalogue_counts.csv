@@ -1,0 +1,8 @@
+stage,count,evidence_role
+All source genomes,4213,provenance
+"Primary MAGs (>=50% complete, <=10% contamination)",3904,MAG-level function
+"Strict MAGs (>=90% complete, <=5% contamination)",1072,quality sensitivity
+ANI95 species representatives,3079,species-balanced inference
+ANI95 representatives: Bacteria,2845,domain-specific tree
+ANI95 representatives: Unclassified,1,domain-specific tree
+ANI95 representatives: Archaea,233,domain-specific tree

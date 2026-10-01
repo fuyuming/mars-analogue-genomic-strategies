@@ -1,0 +1,19 @@
+evidence_layer	measure	retained_value	unit_or_scale	retained_source	interpretation_limit
+AI	ProtNote GO:0009055	0.815379530847389	method-specific score	ai_audit_DPFQ008.tsv	Candidate prioritization; not a calibrated function probability
+AI	mDeepFRI GO:0009055	0.114299230277538	method-specific score	ai_audit_DPFQ008.tsv	Low support; no claim of concordant high scores
+AI	adapted DPFunc GO:0009055	8.2593954478701e-06	raw score; rank 648	ai_audit_DPFQ008.tsv	ESM2/ESMFold/InterPro adapted inputs; no calibrated cross-method comparison
+sequence	Representative length	359	amino acids	Figure3a_strict_hit_architecture.csv	Representative sequence, not all family members
+sequence	CXXCH motifs	134–138;263–267	1-based residue intervals	Figure3a_representative_architecture_plot.csv	Motifs do not establish haem loading or activity
+domain	InterPro accessions	IPR009056;IPR036909	domain; domain superfamily	interpro_summary_DPFQ008.tsv	Two entries are not two independent physical domains
+domain	PS51007 profile regions	97–230;250–359	1-based residue intervals	interpro_tsv_DPFQ008.tsv	Two non-overlapping sequence-profile regions; source XML also audited
+topology	Transmembrane predictions	2	segments	ai_audit_DPFQ008.tsv	Prediction; membrane topology not experimentally established
+structure	Retained mean pLDDT	0.7103	source-scale confidence (approximately 71/100)	structure_DPFQ008.tsv	Prediction confidence, not evidence of protein activity
+family	Frozen HMM threshold	1e-10;0.70	domain-independent E-value upper bound; target coverage lower bound	Methods_DPFQ008_validation_exact.md	Profile derived from 20 discovery sequences; no external specificity estimate
+family	Strict hits	63;61;58	proteins; MAGs; ANI95 clusters	Figure3a_strict_hit_architecture.csv	Sequence-defined candidate family; source imbalance retained
+family	Long proteins with two motifs	52/52	proteins with length >=300 aa	Figure3a_strict_hit_architecture.csv	The remaining 11 short sequences are not automatically assembly fragments
+profile sensitivity	Fold strict hits	61;69;64;62;59	five folds	fold_summary.tsv	Internal sensitivity, not independent functional validation
+profile sensitivity	Held-out seeds recovered	20/20	four per fold	fold_summary.tsv	Held-out members of the discovery family, not independent study replication
+lineage	Gene-host distance correlation	0.6664903633;0.0001	Spearman Mantel rho; empirical P	Figure3_statistics.csv	58 representatives; cannot identify vertical inheritance versus transfer
+lineage	Correlation excluding Qaidam–Qaidam pairs	0.305378170995494;0.0001	Spearman Mantel rho; empirical P	Figure3_tree_sensitivity.csv	Mixed-source pairs remain; not a wholly non-Qaidam cohort
+context	Context-positive carriers	53/61	MAGs	Figure3c_matched_null_frequency.csv	Neighbourhood participated in selection; conditional evidence
+context	Matched-null mean and interval	3.75206;1–8	MAG count; central 95% interval	Figure3c_matched_null_frequency.csv	Within-MAG matched conditional null; not independent function confirmation

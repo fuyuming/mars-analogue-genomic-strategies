@@ -1,0 +1,4 @@
+original_model_md5=035456b42ea543ebd3a0091f17539ce9
+panel_md5=01066fc5ab22f739ebf7fc9c61122627
+Only the fixed KO-count guard was replaced; model/permutation functions unchanged.
+Post-audit amendment; not retroactive prespecification.

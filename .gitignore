@@ -1,0 +1,44 @@
+# ---- 忽略：可再生成产物与本地噪声 ----
+figures_out/
+*.pyc
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
+
+# ---- 忽略：编辑器 / 系统 ----
+.vscode/
+.idea/
+*.swp
+*~
+
+# ---- 安全：绝不纳入敏感或大体积内容 ----
+# 任何 token / 私钥 / 私有配置
+*.pem
+*.key
+credentials*
+*_token*.json
+.mcp.json
+config.local.yaml
+# 大体积或受限数据
+*.bam
+*.bai
+*.cram
+*.fasta
+*.fa
+*.fna
+*.faa
+*.fastq
+*.fq
+*.gz
+*.zip
+*.h5
+*.nc
+*.npz
+# 例外：data/upstream 下已审计的小体积衍生表（合计 <50 MB，逐项见 data/upstream/SOURCES.tsv）
+!data/upstream/**/*.gz
+!data/upstream/**/*.csv.gz
+!data/upstream/**/*.tsv.gz
+# 稿件与 PDF（本 repo 仅存代码/小衍生表/公共元数据，不含稿件）
+*.docx
+*.pdf
+manuscript_v*.md

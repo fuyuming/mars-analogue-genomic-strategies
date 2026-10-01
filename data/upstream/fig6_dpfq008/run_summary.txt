@@ -1,0 +1,18 @@
+ISME Figure 3 DPFQ008 lineage-context redesign
+strict_HMM_hits=63
+carrier_MAGs=61
+catalogues=4
+strict_double_CXXCH=54/63
+length_ge_300_double_CXXCH=52/52
+context_positive_MAGs=53/61
+context_empirical_p=9.9999e-06
+tree_ANI95_representatives=58
+gene_host_mantel_r=0.66649036
+gene_host_mantel_p=0.0001
+non_Qaidam_pair_mask_r=0.30537817
+non_Qaidam_pair_mask_p=0.0001
+backend=R
+size_mm=183x126
+panel_tags=uppercase
+publication_text_gate=PASS_minimum_5pt
+status=PASS

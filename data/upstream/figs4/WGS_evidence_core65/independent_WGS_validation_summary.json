@@ -1,0 +1,29 @@
+{
+  "sample_count": 4,
+  "fastq_count": 8,
+  "total_input_reads": 17884348,
+  "queries_with_reported_hits": 13359566,
+  "reported_hit_query_fraction": 0.7469976540380449,
+  "accepted_broad_target_or_normalizer_reads": 227883,
+  "accepted_broad_fraction_of_input_reads": 0.01274203566157402,
+  "accepted_broad_fraction_of_reported_hit_queries": 0.017057664897198007,
+  "target_KOs_represented_in_reference": 65,
+  "unique_target_KOs_detected": {
+    "broad": 58,
+    "primary": 58,
+    "stringent": 58
+  },
+  "primary_unique_target_KOs_mate_replicated": 58,
+  "primary_KOs_retained_at_stringent": 58,
+  "primary_to_stringent_retention_fraction": 1.0,
+  "assignment_outcomes": {
+    "accepted_broad_assignment": 227883,
+    "best_window_contains_ambiguous_protein_KO": 650,
+    "best_window_contains_non_target_decoy": 13121741,
+    "best_window_spans_multiple_function_classes": 17,
+    "no_alignment_at_least_20aa": 1188,
+    "saturated_25_hits_inside_2pct_window": 8087
+  },
+  "no_inferential_p_values": true,
+  "interpretation_boundary": "Independent sequence-level occurrence only; not activity, pathway flux, survival, biochemical function, or cross-environment generality."
+}

@@ -1,0 +1,32 @@
+{
+  "created_utc": "2026-09-26T14:59:02.078101+00:00",
+  "amendment_sha256": "3b48b0d2f84dc04ff592a7c8349f69415cc7422a9b1d1e2e9d43ec41ae5a07c5",
+  "amendment": "post-audit correction, not retrospective prespecification",
+  "unchanged_KO_count_mismatches": 0,
+  "branches": {
+    "core65": {
+      "KOs": 65,
+      "modules": 9,
+      "strategy_counts": {
+        "surface_retention": 4,
+        "cell_maintenance": 43,
+        "energy_acquisition": 18
+      },
+      "panel_sha256": "495dfe4d576062d2b34216aa5be2dea573576b97427a90fe153aa5e060a43588",
+      "presence_sha256": "84c3fd6f3e7f8f1df828552970473dc8f2695b94dfc2130e51f39657281f1b39",
+      "rows": 253760
+    },
+    "restored74": {
+      "KOs": 74,
+      "modules": 9,
+      "strategy_counts": {
+        "surface_retention": 4,
+        "cell_maintenance": 52,
+        "energy_acquisition": 18
+      },
+      "panel_sha256": "ab26a6ee89777af186d8666304dd322511acf3371d795f2dc2d7574755ec831a",
+      "presence_sha256": "744887377b23d2c229eaa3a56590875a8f75dd58115ab27420eec3a8b1055de1",
+      "rows": 288896
+    }
+  }
+}

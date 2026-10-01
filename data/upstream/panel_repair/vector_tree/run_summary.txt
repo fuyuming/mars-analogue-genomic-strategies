@@ -1,0 +1,14 @@
+Monophyletic GTDB lineage source for ISME Figure 2
+bacteria_tree_tips=2845
+bacteria_display_lineages=73
+bacteria_collapsed_rank_counts=class:14;family:3;order:20;phylum:36
+archaea_tree_tips=233
+archaea_display_lineages=6
+archaea_collapsed_rank_counts=phylum:6
+mapped_genomes=3078
+display_lineages=79
+lineage_module_rows=632
+selection_rule=shallowest monophyletic GTDB rank from phylum through genus; genome fallback only if needed
+display_representative=lexicographically first tip; used only to retain the lineage position in the pruned species-tree scaffold
+bubble_metric=mean proportion of prespecified module markers detected across all genomes in each lineage
+status=PASS

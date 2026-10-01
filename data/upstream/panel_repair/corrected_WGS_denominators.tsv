@@ -1,0 +1,7 @@
+panel	gate	panel_KOs	reference_represented	detected_at_least_3_reads
+core65	broad	65	65	58
+core65	primary	65	65	58
+core65	stringent	65	65	58
+restored74	broad	74	74	63
+restored74	primary	74	74	63
+restored74	stringent	74	74	63

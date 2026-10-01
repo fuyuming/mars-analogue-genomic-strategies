@@ -1,0 +1,47 @@
+{
+  "MAGs": 826,
+  "bacteria": 783,
+  "archaea": 43,
+  "sites": 25,
+  "strict_MAGs": 162,
+  "background_flagged_MAGs": 5,
+  "MAGs_in_ANI95_shared_original3904": 11,
+  "MAGs_in_ANI95_shared_any_existing": 21,
+  "new_studies": 1,
+  "not_external_replication": true,
+  "no_ecological_model_fitted": true,
+  "core65": {
+    "KOs": 65,
+    "modules": 9,
+    "zero_hit_KOs": [
+      "K00437",
+      "K00440",
+      "K04641",
+      "K04642",
+      "K06390",
+      "K07699"
+    ]
+  },
+  "restored74": {
+    "KOs": 74,
+    "modules": 9,
+    "zero_hit_KOs": [
+      "K00437",
+      "K00440",
+      "K04641",
+      "K04642",
+      "K06390",
+      "K07699",
+      "K10257",
+      "K21689",
+      "K21690"
+    ]
+  },
+  "input_sha256": {
+    "desert_full_KO_sparse.tsv": "a5186d4eb39f13bd982701c7c1cd5d77af18ac36c661f2e8c2c03707fe14bf5f",
+    "primary_quality_taxonomy_ANI.tsv": "15ff44454f780f7bef79ab61b2fbe0ec684ae45fd6bcb185920a3dace36e35ea",
+    "desert_MAG911_quality_source_registry.tsv": "ba1a0625606186f6a70f3a6d6bf871981ef9a3e204aa0b34150961f0984e8b12",
+    "result_raw/KO_panel_repair_20260926/amended_inputs/core65_panel.tsv": "495dfe4d576062d2b34216aa5be2dea573576b97427a90fe153aa5e060a43588",
+    "result_raw/KO_panel_repair_20260926/amended_inputs/restored74_panel.tsv": "ab26a6ee89777af186d8666304dd322511acf3371d795f2dc2d7574755ec831a"
+  }
+}

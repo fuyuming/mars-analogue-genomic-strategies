@@ -1,0 +1,11 @@
+# Joint genomic configuration diagnostic frozen before tabulation
+
+2026-10-01. Exploratory extension of the existing manuscript, not an untouched test. Reuse round49 exact primary/strict original and independent-dryland representative cohorts. Do not rerun old Qaidam environmental models or select combinations by significance.
+
+Four pre-specified pairs: KdpABC, ProVWX, EctABC, BetAB each paired with co-detection of K03518/K03519/K03520 (Cox/Cut-family marker set). These three markers do NOT establish aerobic/atmospheric CO oxidation: Cox/Cut homology/form specificity requires sequence validation. No hydrogenase grouping is used, because the existing panel does not distinguish the relevant physiological subtypes. Maintenance definitions remain the previously audited rules; KdpF remains outside panel. Report all four pairs in all four cohorts.
+
+Endpoints: not detected, partial, or all specified markers detected for each system; four binary co-detection joint states are descriptive only. "Not all detected" is not biological absence. Count support by family and source/site. A conservative joint-support diagnostic requires all four binary states to have >=3 representative MAGs within a family, AND >=2 source/site groups each with>=3 MAGs of that family. This gate assesses whether a within-family joint association has empirical support; it is not a universal statistical validity threshold or proof of independence. Repeat joint-state threshold2 and5 as declared support sensitivities. Do not weaken the gate based on observed counts.
+
+Descriptive null: expected both under pooled marginal independence, and expected both under within-family marginal independence; no p-values or causal reading. Results can expose composition effects but not physiological synergy. Missing family assignments excluded from family conditioning and counted separately, never grouped into one synthetic lineage.
+
+No new environmental effect model or claimed replication unless primary AND strict cohort support and functional identity justify it. If unsupported, retain the diagnostic and sequence-validation need without fitting a complex Bayesian model. Existing Bayesian analyses remain in manuscript. New salt/polar cohorts are processed separately; no pending genomes enter these denominators.

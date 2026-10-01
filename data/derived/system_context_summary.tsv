@@ -1,0 +1,71 @@
+cohort	system	metric	n	denominator	fraction	conditional_q025	conditional_q975	group_count	interpretation
+original_primary	KdpABC	same_contig	502	672	0.7470238095238095	0.7067735953056008	0.7717497245820719	24	protein-ID contig/order proxy only
+original_primary	KdpABC	order_compact	500	672	0.7440476190476191	0.7044434800222644	0.769949073911305	24	protein-ID contig/order proxy only
+original_primary	KdpDE	same_contig	772	875	0.8822857142857143	0.81218622164145	0.915266426354244	25	protein-ID contig/order proxy only
+original_primary	KdpDE	order_compact	764	875	0.8731428571428571	0.7968463620663362	0.9091766787499591	25	protein-ID contig/order proxy only
+original_primary	ProVWX	same_contig	162	215	0.7534883720930232	0.628821423456384	0.8392839481672558	11	protein-ID contig/order proxy only
+original_primary	ProVWX	order_compact	161	215	0.7488372093023256	0.6184368425138507	0.8389997174742787	11	protein-ID contig/order proxy only
+original_primary	EctABC	same_contig	133	153	0.869281045751634	0.8434729089625382	0.9284437582386825	9	protein-ID contig/order proxy only
+original_primary	EctABC	order_compact	132	153	0.8627450980392157	0.8292030988449347	0.9259153473186363	9	protein-ID contig/order proxy only
+original_primary	BetAB	same_contig	81	99	0.8181818181818182	0.4597905775424576	0.9215081666296121	7	protein-ID contig/order proxy only
+original_primary	BetAB	order_compact	77	99	0.7777777777777778	0.4364556382564679	0.9100917455424152	7	protein-ID contig/order proxy only
+original_strict	KdpABC	same_contig	271	312	0.8685897435897436	0.8377740485073786	0.8866752081270755	20	protein-ID contig/order proxy only
+original_strict	KdpABC	order_compact	271	312	0.8685897435897436	0.8377740485073786	0.8866752081270755	20	protein-ID contig/order proxy only
+original_strict	KdpDE	same_contig	330	362	0.9116022099447514	0.8251613470729905	0.945646472145087	18	protein-ID contig/order proxy only
+original_strict	KdpDE	order_compact	325	362	0.8977900552486188	0.7968245344370272	0.9377734606400724	18	protein-ID contig/order proxy only
+original_strict	ProVWX	same_contig	51	66	0.7727272727272727	0.6250107141780646	0.8655137576849176	10	protein-ID contig/order proxy only
+original_strict	ProVWX	order_compact	51	66	0.7727272727272727	0.6250107141780646	0.8655137576849176	10	protein-ID contig/order proxy only
+original_strict	EctABC	same_contig	55	60	0.9166666666666666	0.8645127041632232	0.9565610401643999	5	protein-ID contig/order proxy only
+original_strict	EctABC	order_compact	54	60	0.9	0.8567967455060219	0.9316126599057553	5	protein-ID contig/order proxy only
+original_strict	BetAB	same_contig	35	46	0.7608695652173914	0.29550003025683025	0.9448729060644344	5	protein-ID contig/order proxy only
+original_strict	BetAB	order_compact	33	46	0.717391304347826	0.26524150707841254	0.9104942039843996	5	protein-ID contig/order proxy only
+new_desert_primary	KdpABC	same_contig	72	98	0.7346938775510204	0.6508154454587295	0.8023974231643005	13	verified coordinates
+new_desert_primary	KdpABC	order_compact	72	98	0.7346938775510204	0.6508154454587295	0.8023974231643005	13	verified coordinates
+new_desert_primary	KdpABC	compact_5kb	72	98	0.7346938775510204	0.6508154454587295	0.8023974231643005	13	verified coordinates
+new_desert_primary	KdpABC	compact_10kb	72	98	0.7346938775510204	0.6508154454587295	0.8023974231643005	13	verified coordinates
+new_desert_primary	KdpABC	compact_20kb	72	98	0.7346938775510204	0.6508154454587295	0.8023974231643005	13	verified coordinates
+new_desert_primary	KdpDE	same_contig	166	191	0.8691099476439791	0.8131533615526305	0.9131731627834656	21	verified coordinates
+new_desert_primary	KdpDE	order_compact	165	191	0.8638743455497382	0.8074683156524889	0.9097647772645959	21	verified coordinates
+new_desert_primary	KdpDE	compact_5kb	163	191	0.8534031413612565	0.801109660277457	0.8965866428181706	21	verified coordinates
+new_desert_primary	KdpDE	compact_10kb	163	191	0.8534031413612565	0.801109660277457	0.8965866428181706	21	verified coordinates
+new_desert_primary	KdpDE	compact_20kb	163	191	0.8534031413612565	0.801109660277457	0.8965866428181706	21	verified coordinates
+new_desert_primary	ProVWX	same_contig	43	62	0.6935483870967742	0.528673594175975	0.7826311154685768	17	verified coordinates
+new_desert_primary	ProVWX	order_compact	43	62	0.6935483870967742	0.528673594175975	0.7826311154685768	17	verified coordinates
+new_desert_primary	ProVWX	compact_5kb	43	62	0.6935483870967742	0.528673594175975	0.7826311154685769	17	verified coordinates
+new_desert_primary	ProVWX	compact_10kb	43	62	0.6935483870967742	0.528673594175975	0.7826311154685769	17	verified coordinates
+new_desert_primary	ProVWX	compact_20kb	43	62	0.6935483870967742	0.528673594175975	0.7826311154685769	17	verified coordinates
+new_desert_primary	EctABC	same_contig	10	12	0.8333333333333334	0.6148317321013124	0.9721798233310158	7	verified coordinates
+new_desert_primary	EctABC	order_compact	10	12	0.8333333333333334	0.6148317321013124	0.9721798233310158	7	verified coordinates
+new_desert_primary	EctABC	compact_5kb	10	12	0.8333333333333334	0.6148317321013124	0.9721798233310158	7	verified coordinates
+new_desert_primary	EctABC	compact_10kb	10	12	0.8333333333333334	0.6148317321013124	0.9721798233310158	7	verified coordinates
+new_desert_primary	EctABC	compact_20kb	10	12	0.8333333333333334	0.6148317321013124	0.9721798233310158	7	verified coordinates
+new_desert_primary	BetAB	same_contig	19	26	0.7307692307692307	0.500392839057852	0.8939211431067489	11	verified coordinates
+new_desert_primary	BetAB	order_compact	19	26	0.7307692307692307	0.500392839057852	0.8939211431067489	11	verified coordinates
+new_desert_primary	BetAB	compact_5kb	19	26	0.7307692307692307	0.500392839057852	0.8939211431067489	11	verified coordinates
+new_desert_primary	BetAB	compact_10kb	19	26	0.7307692307692307	0.500392839057852	0.8939211431067489	11	verified coordinates
+new_desert_primary	BetAB	compact_20kb	19	26	0.7307692307692307	0.500392839057852	0.8939211431067489	11	verified coordinates
+new_desert_strict	KdpABC	same_contig	35	38	0.9210526315789473	0.8904422791001635	0.9799456556278464	7	verified coordinates
+new_desert_strict	KdpABC	order_compact	35	38	0.9210526315789473	0.8904422791001635	0.9799456556278464	7	verified coordinates
+new_desert_strict	KdpABC	compact_5kb	35	38	0.9210526315789473	0.8904422791001635	0.9799456556278464	7	verified coordinates
+new_desert_strict	KdpABC	compact_10kb	35	38	0.9210526315789473	0.8904422791001635	0.9799456556278464	7	verified coordinates
+new_desert_strict	KdpABC	compact_20kb	35	38	0.9210526315789473	0.8904422791001635	0.9799456556278464	7	verified coordinates
+new_desert_strict	KdpDE	same_contig	45	50	0.9	0.8244960458454795	0.9749458155569782	13	verified coordinates
+new_desert_strict	KdpDE	order_compact	45	50	0.9	0.8244960458454795	0.9749458155569782	13	verified coordinates
+new_desert_strict	KdpDE	compact_5kb	45	50	0.9	0.8244960458454795	0.9749458155569783	13	verified coordinates
+new_desert_strict	KdpDE	compact_10kb	45	50	0.9	0.8244960458454795	0.9749458155569783	13	verified coordinates
+new_desert_strict	KdpDE	compact_20kb	45	50	0.9	0.8244960458454795	0.9749458155569783	13	verified coordinates
+new_desert_strict	ProVWX	same_contig	12	17	0.7058823529411765	0.3405082551616774	0.9625985968850853	6	verified coordinates
+new_desert_strict	ProVWX	order_compact	12	17	0.7058823529411765	0.3405082551616774	0.9625985968850853	6	verified coordinates
+new_desert_strict	ProVWX	compact_5kb	12	17	0.7058823529411765	0.3405082551616774	0.9625985968850853	6	verified coordinates
+new_desert_strict	ProVWX	compact_10kb	12	17	0.7058823529411765	0.3405082551616774	0.9625985968850853	6	verified coordinates
+new_desert_strict	ProVWX	compact_20kb	12	17	0.7058823529411765	0.3405082551616774	0.9625985968850853	6	verified coordinates
+new_desert_strict	EctABC	same_contig	1	1	1.0	1.0	1.0	1	verified coordinates
+new_desert_strict	EctABC	order_compact	1	1	1.0	1.0	1.0	1	verified coordinates
+new_desert_strict	EctABC	compact_5kb	1	1	1.0	1.0	1.0	1	verified coordinates
+new_desert_strict	EctABC	compact_10kb	1	1	1.0	1.0	1.0	1	verified coordinates
+new_desert_strict	EctABC	compact_20kb	1	1	1.0	1.0	1.0	1	verified coordinates
+new_desert_strict	BetAB	same_contig	9	10	0.9	0.5712990719377459	0.9971286099861941	5	verified coordinates
+new_desert_strict	BetAB	order_compact	9	10	0.9	0.5712990719377459	0.9971286099861941	5	verified coordinates
+new_desert_strict	BetAB	compact_5kb	9	10	0.9	0.5712990719377459	0.9971286099861941	5	verified coordinates
+new_desert_strict	BetAB	compact_10kb	9	10	0.9	0.5712990719377459	0.9971286099861941	5	verified coordinates
+new_desert_strict	BetAB	compact_20kb	9	10	0.9	0.5712990719377459	0.9971286099861941	5	verified coordinates

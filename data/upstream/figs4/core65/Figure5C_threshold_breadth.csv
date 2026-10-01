@@ -1,0 +1,13 @@
+sample_id,sample_title,gate,detected_KOs
+SRR18183467,Last Chance Cave coral digitate,broad,53
+SRR18183468,Indian Tunnel white powder,broad,55
+SRR18183469,Indian Tunnel white crystals,broad,56
+SRR18183470,Hidden Cave coral digitate,broad,55
+SRR18183467,Last Chance Cave coral digitate,primary,52
+SRR18183468,Indian Tunnel white powder,primary,54
+SRR18183469,Indian Tunnel white crystals,primary,55
+SRR18183470,Hidden Cave coral digitate,primary,55
+SRR18183467,Last Chance Cave coral digitate,stringent,51
+SRR18183468,Indian Tunnel white powder,stringent,53
+SRR18183469,Indian Tunnel white crystals,stringent,55
+SRR18183470,Hidden Cave coral digitate,stringent,53

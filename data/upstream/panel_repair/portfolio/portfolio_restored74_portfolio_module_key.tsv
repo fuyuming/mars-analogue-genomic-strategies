@@ -1,0 +1,9 @@
+strategy_axis	module	panel_KOs
+cell_maintenance	osmotic_desiccation_salt	17
+cell_maintenance	oxidative_redox	9
+energy_acquisition	trace_gas_energy	9
+cell_maintenance	dormancy_resuscitation	9
+cell_maintenance	dna_repair_radiation	13
+cell_maintenance	cold_protein_quality	4
+energy_acquisition	light_energy	2
+energy_acquisition	sulfur_chemolithotrophy	7

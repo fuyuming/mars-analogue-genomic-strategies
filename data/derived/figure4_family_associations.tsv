@@ -1,0 +1,7 @@
+endpoint	cohort	rank	n	lineages	groups	rank_reduced	rank_full	positive	positive_groups	zero_groups	limited_observed_state_support	source_or_site_partial_r2	df_adjusted_partial_r2	status
+KdpABC_codetected	original_primary	family	1061	30	7	32	38	393	5	7	False	0.1872020853438628	0.1824349421493987	descriptive_group_projection
+KdpDE_codetected	original_primary	family	1061	30	7	32	38	481	5	7	False	0.2164696583095224	0.2118741724345051	descriptive_group_projection
+ProVWX_codetected	original_primary	family	1061	30	7	32	38	98	7	7	False	0.0124895191775199	0.0066976688501153	descriptive_group_projection
+EctABC_codetected	original_primary	family	1061	30	7	32	38	37	3	7	False	0.0429623375080583	0.0373492133878708	descriptive_group_projection
+EctD_codetected	original_primary	family	1061	30	7	32	38	34	3	7	False	0.029047816361701	0.0233530821468136	descriptive_group_projection
+BetAB_codetected	original_primary	family	1061	30	7	32	38	65	5	7	False	0.0039678705342787	-0.0018739601370745	descriptive_group_projection

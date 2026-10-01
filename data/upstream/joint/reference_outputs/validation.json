@@ -1,0 +1,12 @@
+{
+  "all_prior_maintenance_calls_match": true,
+  "pairs": 4,
+  "cohorts": 4,
+  "CO_activity_claimed": false,
+  "environment_model_fitted": false,
+  "thresholds": [
+    2,
+    3,
+    5
+  ]
+}

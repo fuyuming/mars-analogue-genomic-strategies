@@ -1,0 +1,9 @@
+domain	axis	null	n	clustered
+Bacteria	cell_maintenance	global_prevalence_preserving	43	42
+Bacteria	cell_maintenance	within_source_prevalence_preserving	43	42
+Bacteria	energy_acquisition	global_prevalence_preserving	15	14
+Bacteria	energy_acquisition	within_source_prevalence_preserving	15	14
+Archaea	cell_maintenance	global_prevalence_preserving	33	21
+Archaea	cell_maintenance	within_source_prevalence_preserving	33	15
+Archaea	energy_acquisition	global_prevalence_preserving	11	8
+Archaea	energy_acquisition	within_source_prevalence_preserving	11	6

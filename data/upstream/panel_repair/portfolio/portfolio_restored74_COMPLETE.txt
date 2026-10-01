@@ -1,0 +1,5 @@
+status=PASS
+scope=portfolio rerun only; not complete manuscript correction
+layers=13
+null_rows=73987
+Null: no residual source effect, not equality of two nonzero partial R-squared values.

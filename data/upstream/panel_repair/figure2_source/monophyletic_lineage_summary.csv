@@ -1,0 +1,80 @@
+domain,lineage_id,lineage_path,collapsed_rank,collapsed_name,genomes,strict_genomes,source_datasets,mean_completeness,mean_contamination,display_representative
+Archaea,A_L001,phylum:Thermoproteota,phylum,Thermoproteota,29,10,4,82.9110344827586,2.95137931034483,alaska_permafrost_reference_GCA_003141855.1_20120800_E1X_genomic
+Archaea,A_L002,phylum:Thermoplasmatota,phylum,Thermoplasmatota,19,4,4,75.8589473684211,1.90210526315789,atacama_halite_rainfall_prjna484015_SG1_Actinobacteria_71_7
+Archaea,A_L003,phylum:Micrarchaeota,phylum,Micrarchaeota,3,2,2,87.37,0.91,GCA_050749665.1_genomic
+Archaea,A_L004,phylum:Halobacteriota,phylum,Halobacteriota,170,12,5,73.1512352941176,1.52229411764706,alaska_permafrost_reference_32_merged
+Archaea,A_L005,phylum:Methanobacteriota,phylum,Methanobacteriota,3,1,2,86.2833333333333,1.99333333333333,alaska_permafrost_reference_GCA_003151535.1_20120700_P3D_genomic
+Archaea,A_L006,phylum:Nanohalarchaeota,phylum,Nanohalarchaeota,9,5,3,87.0866666666667,1.47,atacama_halite_rainfall_prjna484015_SG1_Nanohaloarchaea_45_10
+Bacteria,B_L001,phylum:Actinomycetota,phylum,Actinomycetota,820,202,6,78.4771463414634,3.23262195121951,alaska_permafrost_reference_125_merged
+Bacteria,B_L002,phylum:Chloroflexota,phylum,Chloroflexota,198,39,5,75.7529797979798,2.72181818181818,alaska_permafrost_reference_183_merged
+Bacteria,B_L003,phylum:Cyanobacteriota,phylum,Cyanobacteriota,23,13,6,85.3247826086957,2.49086956521739,alaska_permafrost_reference_SRR11719874bin.1
+Bacteria,B_L004,phylum:Sysuimicrobiota,phylum,Sysuimicrobiota,1,0,1,77.73,3.39,GCA_050695335.1_genomic
+Bacteria,B_L005,phylum:Bacteroidota,phylum,Bacteroidota,209,88,6,82.538995215311,2.25933014354067,alaska_permafrost_reference_16p_S16_bin.70
+Bacteria,B_L006,phylum:Pseudomonadota / class:Gammaproteobacteria,class,Gammaproteobacteria,345,119,6,82.6337971014493,2.73020289855072,alaska_permafrost_reference_149_merged
+Bacteria,B_L007,phylum:Pseudomonadota / class:Alphaproteobacteria / order:Sphingomonadales,order,Sphingomonadales,42,13,4,76.3335714285714,3.02452380952381,alaska_permafrost_reference_SRR9691026rbin.5
+Bacteria,B_L008,phylum:Pseudomonadota / class:Alphaproteobacteria / order:Rhizobiales,order,Rhizobiales,110,25,5,77.4671818181818,3.09581818181818,alaska_permafrost_reference_BRice_18rbin.14
+Bacteria,B_L009,phylum:Pseudomonadota / class:Alphaproteobacteria / order:SP197,order,SP197,1,0,1,78.37,6.81,GCA_050725795.1_genomic
+Bacteria,B_L010,phylum:Pseudomonadota / class:Alphaproteobacteria / order:Micropepsales,order,Micropepsales,7,3,2,86.0585714285714,2.25142857142857,alaska_permafrost_reference_SRR11719862bin.6
+Bacteria,B_L011,phylum:Pseudomonadota / class:Alphaproteobacteria / order:Dongiales,order,Dongiales,3,1,1,84.9333333333333,5.51666666666667,GCA_050729195.1_genomic
+Bacteria,B_L012,phylum:Pseudomonadota / class:Alphaproteobacteria / order:Caulobacterales,order,Caulobacterales,26,14,4,88.2934615384616,2.115,alaska_permafrost_reference_GCA_003136395.1_20111000_P1D_genomic
+Bacteria,B_L013,phylum:Pseudomonadota / class:Alphaproteobacteria / order:ATCC43930,order,ATCC43930,17,6,3,77.8794117647059,3.04705882352941,alaska_permafrost_reference_SRR1586311rbin.8
+Bacteria,B_L014,phylum:Pseudomonadota / class:Alphaproteobacteria / order:Acetobacterales,order,Acetobacterales,15,1,4,73.6713333333333,4.438,alaska_permafrost_reference_GCA_003133265.1_20120500_P28_genomic
+Bacteria,B_L015,phylum:Pseudomonadota / class:Alphaproteobacteria / order:CADEGL01,order,CADEGL01,1,0,1,59.51,2.71,GCA_050729695.1_genomic
+Bacteria,B_L016,phylum:Pseudomonadota / class:Alphaproteobacteria / order:Reyranellales,order,Reyranellales,1,0,1,87.71,3.35,alaska_permafrost_reference_GCA_003153415.1_20120700_P3D_genomic
+Bacteria,B_L017,phylum:Pseudomonadota / class:Alphaproteobacteria / order:Parvibaculales,order,Parvibaculales,2,2,1,99.995,0.055,qaidam_basin_mmag_1773_AKQ1bin10
+Bacteria,B_L018,phylum:Pseudomonadota / class:Alphaproteobacteria / order:Rhodobacterales,order,Rhodobacterales,25,10,1,81.146,2.6892,qaidam_basin_mmag_1773_AKQ1bin16
+Bacteria,B_L019,phylum:Pseudomonadota / class:Alphaproteobacteria / order:Thalassobaculales,order,Thalassobaculales,1,1,1,100,2.67,qaidam_basin_mmag_1773_AKQ1bin18
+Bacteria,B_L020,phylum:Pseudomonadota / class:Alphaproteobacteria / order:Rickettsiales / family:UBA3002,family,UBA3002,1,1,1,99.41,0.03,qaidam_basin_mmag_1773_AKQ1bin48
+Bacteria,B_L021,phylum:Pseudomonadota / class:Alphaproteobacteria / order:Rickettsiales / family:Rickettsiaceae,family,Rickettsiaceae,1,0,1,81.58,0.06,qaidam_basin_mmag_1773_L_21_AKQ_4bin16
+Bacteria,B_L022,phylum:Pseudomonadota / class:Alphaproteobacteria / order:Rickettsiales / family:DAHXLG01,family,DAHXLG01,2,1,1,91.845,0.72,qaidam_basin_mmag_1773_L_21_AKQ_4bin43
+Bacteria,B_L023,phylum:Pseudomonadota / class:Alphaproteobacteria / order:Rhodospirillales,order,Rhodospirillales,2,0,1,74.86,2.28,qaidam_basin_mmag_1773_AKQ3bin59
+Bacteria,B_L024,phylum:Pseudomonadota / class:Alphaproteobacteria / order:UBA6503,order,UBA6503,1,1,1,98.57,0.06,qaidam_basin_mmag_1773_AKQ3bin86
+Bacteria,B_L025,phylum:Pseudomonadota / class:Alphaproteobacteria / order:GCA-2731375,order,GCA-2731375,1,0,1,54.58,3.55,qaidam_basin_mmag_1773_L_0707_10_15bin42
+Bacteria,B_L026,phylum:Pseudomonadota / class:Alphaproteobacteria / order:Azospirillales,order,Azospirillales,1,0,1,60.74,0.68,qaidam_basin_mmag_1773_L_0707_40_50bin32
+Bacteria,B_L027,phylum:Pseudomonadota / class:Alphaproteobacteria / order:UBA9219,order,UBA9219,1,1,1,90.52,4.26,stordalen_mire_2019_hybrid_mags_cmr6.MA.201907_E_1_20to24_64.fna
+Bacteria,B_L028,phylum:Pseudomonadota / class:Zetaproteobacteria,class,Zetaproteobacteria,2,2,1,99.8,0.065,qaidam_basin_mmag_1773_L_21_AKQ_4bin50
+Bacteria,B_L029,phylum:Planctomycetota,phylum,Planctomycetota,68,23,6,79.9992647058824,2.91397058823529,alaska_permafrost_reference_GCA_003170415.1_20110800_E3D_genomic
+Bacteria,B_L030,phylum:Patescibacteriota,phylum,Patescibacteriota,57,17,6,82.6047368421053,2.39052631578947,alaska_permafrost_reference_165_merged
+Bacteria,B_L031,phylum:Nitrospirota,phylum,Nitrospirota,12,4,3,86.0333333333333,4.97666666666667,alaska_permafrost_reference_GCA_003152135.1_20120700_P3D_genomic
+Bacteria,B_L032,phylum:Omnitrophota,phylum,Omnitrophota,4,1,2,87.67,4.1425,GCA_050731015.1_genomic
+Bacteria,B_L033,phylum:Myxococcota / class:Polyangia,class,Polyangia,24,10,4,83.2970833333333,3.85333333333333,alaska_permafrost_reference_SRR4027936rbin.2
+Bacteria,B_L034,phylum:Myxococcota / class:Bradymonadia,class,Bradymonadia,3,0,2,80.38,3.81333333333333,atacama_halite_rainfall_prjna484015_SG1_Deltaproteobacteria_66_5
+Bacteria,B_L035,phylum:Myxococcota / class:Myxococcia,class,Myxococcia,7,2,1,81.52,3.55714285714286,qaidam_basin_mmag_1773_CJ0912_30_35bin33
+Bacteria,B_L036,phylum:Myxococcota / class:UBA727,class,UBA727,5,3,1,83.58,2.702,qaidam_basin_mmag_1773_CJ0912_5_10bin44
+Bacteria,B_L037,phylum:Myxococcota / class:JAJVIH01,class,JAJVIH01,1,0,1,64.09,3.75,qaidam_basin_mmag_1773_NSL1015bin19
+Bacteria,B_L038,phylum:Methylomirabilota,phylum,Methylomirabilota,14,3,3,75.0521428571429,3.56285714285714,alaska_permafrost_reference_SRR10489823bin.6
+Bacteria,B_L039,phylum:JAJYCY01,phylum,JAJYCY01,1,0,1,68.44,1.9,GCA_050732495.1_genomic
+Bacteria,B_L040,phylum:Gemmatimonadota,phylum,Gemmatimonadota,136,29,4,78.5869852941177,3.70382352941177,alaska_permafrost_reference_GCA_003134915.1_20111000_P3D_genomic
+Bacteria,B_L041,phylum:FCPU426,phylum,FCPU426,3,1,2,80.7,1.84333333333333,GCA_050733715.1_genomic
+Bacteria,B_L042,phylum:Vulcanimicrobiota,phylum,Vulcanimicrobiota,12,4,2,82.2808333333333,1.66416666666667,GCA_050733755.1_genomic
+Bacteria,B_L043,phylum:Eisenbacteria,phylum,Eisenbacteria,2,0,1,80.39,1.815,GCA_050734015.1_genomic
+Bacteria,B_L044,phylum:Verrucomicrobiota,phylum,Verrucomicrobiota,99,40,5,84.760404040404,2.38848484848485,alaska_permafrost_reference_GCA_003135675.1_20111000_P3D_genomic
+Bacteria,B_L045,phylum:Desulfobacterota_D,phylum,Desulfobacterota_D,6,2,1,81.8783333333333,3.40166666666667,GCA_050735055.1_genomic
+Bacteria,B_L046,phylum:Desulfobacterota_B,phylum,Desulfobacterota_B,21,8,4,79.0271428571429,2.70952380952381,alaska_permafrost_reference_SRR10489815bin.14
+Bacteria,B_L047,phylum:UBP7,phylum,UBP7,1,0,1,62.66,0.14,GCA_050737495.1_genomic
+Bacteria,B_L048,phylum:Acidobacteriota,phylum,Acidobacteriota,332,134,5,84.1351204819277,3.13409638554217,alaska_permafrost_reference_23_S49_bin.7
+Bacteria,B_L049,phylum:Unclassified,phylum,Unclassified,1,0,1,58.94,8.2,GCA_050747285.1_genomic
+Bacteria,B_L050,phylum:Myxococcota_A / class:UBA9160 / order:SZUA-336,order,SZUA-336,1,0,1,52.75,5.99,GCA_050748365.1_genomic
+Bacteria,B_L051,phylum:Myxococcota_A / class:UBA9160 / order:UBA9160,order,UBA9160,2,1,1,88.585,2.415,qaidam_basin_mmag_1773_AKQ3bin41
+Bacteria,B_L052,phylum:Deinococcota,phylum,Deinococcota,27,3,2,73.8911111111111,2.34148148148148,MAG10
+Bacteria,B_L053,phylum:Bacteroidota_A / class:Rhodothermia,class,Rhodothermia,31,6,4,75.9438709677419,1.67064516129032,atacama_halite_rainfall_prjna484015_SG1_Salinibacter_62_31
+Bacteria,B_L054,phylum:Bacteroidota_A / class:Ignavibacteria,class,Ignavibacteria,3,2,2,90,2.61666666666667,alaska_permafrost_reference_GCA_003141435.1_20120800_E3S_genomic
+Bacteria,B_L055,phylum:Bacteroidota_A / class:UBA10030,class,UBA10030,1,1,1,98.8,1.26,alaska_permafrost_reference_GCA_003142575.1_20120800_E2X_genomic
+Bacteria,B_L056,phylum:Bacteroidota_A / class:Kapaibacteriia,class,Kapaibacteriia,1,1,1,98.52,0.7,alaska_permafrost_reference_SRR10489837bin.20
+Bacteria,B_L057,phylum:Bacteroidota_A / class:Chlorobiia,class,Chlorobiia,1,0,1,86.07,4.11,stordalen_mire_2019_hybrid_mags_cmr6.MA.201907_E_1_1to5_9.fna
+Bacteria,B_L058,phylum:Desulfobacterota / class:Syntrophia,class,Syntrophia,7,3,2,78.95,2.64714285714286,alaska_permafrost_reference_11p_S11_bin.46
+Bacteria,B_L059,phylum:Desulfobacterota / class:Desulfuromonadia,class,Desulfuromonadia,3,1,1,76.1566666666667,2.24666666666667,alaska_permafrost_reference_SRR3989254rbin.42
+Bacteria,B_L060,phylum:Caldisericota,phylum,Caldisericota,7,1,1,79.7071428571429,2.43,alaska_permafrost_reference_GCA_003132185.1_20120500_P28_genomic
+Bacteria,B_L061,phylum:Desulfobacterota_E,phylum,Desulfobacterota_E,3,1,1,76.4266666666667,2.12666666666667,alaska_permafrost_reference_SRR10489817bin.11
+Bacteria,B_L062,phylum:Bacillota,phylum,Bacillota,25,7,3,80.4628,2.8792,alaska_permafrost_reference_SRR1586325rbin.6
+Bacteria,B_L063,phylum:Armatimonadota,phylum,Armatimonadota,13,3,1,73.0807692307692,2.49538461538462,qaidam_basin_mmag_1773_0707bin2
+Bacteria,B_L064,phylum:Bdellovibrionota,phylum,Bdellovibrionota,31,15,1,83.848064516129,1.58516129032258,qaidam_basin_mmag_1773_AKQ1bin51
+Bacteria,B_L065,phylum:Bdellovibrionota_B,phylum,Bdellovibrionota_B,1,1,1,95.46,1.06,qaidam_basin_mmag_1773_AKQ2bin52
+Bacteria,B_L066,phylum:UBA8481,phylum,UBA8481,1,1,1,92.03,2.37,qaidam_basin_mmag_1773_AKQ3bin30
+Bacteria,B_L067,phylum:Chlamydiota,phylum,Chlamydiota,4,4,1,94.9125,1.0475,qaidam_basin_mmag_1773_AKQ3bin36
+Bacteria,B_L068,phylum:Sumerlaeota,phylum,Sumerlaeota,6,2,1,83.5333333333333,1.20833333333333,qaidam_basin_mmag_1773_CJ0912_40_45bin40
+Bacteria,B_L069,phylum:Spirochaetota,phylum,Spirochaetota,3,0,2,69.1666666666667,1.93666666666667,qaidam_basin_mmag_1773_L_21_AKQ_4bin29
+Bacteria,B_L070,phylum:JADJOY01,phylum,JADJOY01,1,0,1,52.68,5.6,qaidam_basin_mmag_1773_NSL35_40bin3
+Bacteria,B_L071,phylum:Elusimicrobiota,phylum,Elusimicrobiota,1,0,1,73.6,1.18,qaidam_basin_mmag_1773_S305CJS_Wetbin14
+Bacteria,B_L072,phylum:Fibrobacterota,phylum,Fibrobacterota,3,1,1,88.1233333333333,1.87666666666667,stordalen_mire_2019_hybrid_mags_cmr2.MA.201907_E_1_20to24_47.fna
+Bacteria,B_L073,phylum:Goldbacteria,phylum,Goldbacteria,1,1,1,96.97,0.19,stordalen_mire_2019_hybrid_mags_cmr6.MA.201907_E_1_20to24_27.fna

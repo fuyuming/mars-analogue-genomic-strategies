@@ -1,0 +1,11 @@
+DPFQ008 gene-host tree congruence
+strict_HMM_proteins=63
+carrier_MAGs=61
+independent_ANI95_representatives=58
+spearman_mantel_r=0.66649036
+mantel_permutations=9999
+mantel_empirical_p=0.0001
+identical_nearest_neighbors=28/58
+gene_nearest_same_dataset=51/58
+claim_boundary=Tree-distance association supports lineage-structured sequence evolution; it does not by itself establish vertical inheritance, horizontal transfer, causality or biochemical function
+status=PASS

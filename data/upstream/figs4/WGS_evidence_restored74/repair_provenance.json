@@ -1,0 +1,6 @@
+{
+  "original_script_sha256": "9b41a839c6e87a687e6e325422b28fdd5832621e81d26fe02ae1b12413b95a42",
+  "change": "Replace fixed 69-KO guard with exact amended KO identity/count; unchanged evidence formulas",
+  "historical_all8_readcounts_reproduced": true,
+  "multi_KO_subjects": "explicitly ambiguous, rejected within near-best window"
+}

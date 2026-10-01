@@ -1,0 +1,15 @@
+cohort	rank	n	lineages	source_or_sites	gate
+original_primary	lineage_id	2534	16	7	at least2 groups with>=5 genomes in each; all members of eligible lineage retained
+original_primary	class	2272	21	7	at least2 groups with>=5 genomes in each; all members of eligible lineage retained
+original_primary	order	1784	35	7	at least2 groups with>=5 genomes in each; all members of eligible lineage retained
+original_primary	family	1061	30	7	at least2 groups with>=5 genomes in each; all members of eligible lineage retained
+original_strict	lineage_id	676	8	6	at least2 groups with>=5 genomes in each; all members of eligible lineage retained
+original_strict	class	638	11	6	at least2 groups with>=5 genomes in each; all members of eligible lineage retained
+original_strict	order	309	10	5	at least2 groups with>=5 genomes in each; all members of eligible lineage retained
+original_strict	family	111	6	5	at least2 groups with>=5 genomes in each; all members of eligible lineage retained
+new_desert_primary	class	573	13	25	at least2 groups with>=5 genomes in each; all members of eligible lineage retained
+new_desert_primary	order	289	8	25	at least2 groups with>=5 genomes in each; all members of eligible lineage retained
+new_desert_primary	family	147	5	22	at least2 groups with>=5 genomes in each; all members of eligible lineage retained
+new_desert_strict	class	44	2	13	at least2 groups with>=5 genomes in each; all members of eligible lineage retained
+new_desert_strict	order	0	0	0	at least2 groups with>=5 genomes in each; all members of eligible lineage retained
+new_desert_strict	family	0	0	0	at least2 groups with>=5 genomes in each; all members of eligible lineage retained

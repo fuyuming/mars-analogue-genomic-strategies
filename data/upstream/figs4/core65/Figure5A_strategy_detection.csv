@@ -1,0 +1,4 @@
+strategy_axis,represented_KOs,detected_KOs,detection_fraction
+cell_maintenance,43,43,1.0
+energy_acquisition,18,11,0.6111111111111112
+surface_retention,4,4,1.0

@@ -1,0 +1,31 @@
+{
+  "rules": {
+    "KdpABC": [
+      "K01546",
+      "K01547",
+      "K01548"
+    ],
+    "KdpDE": [
+      "K07646",
+      "K07667"
+    ],
+    "ProVWX": [
+      "K02000",
+      "K02001",
+      "K02002"
+    ],
+    "EctABC": [
+      "K06718",
+      "K00836",
+      "K06720"
+    ],
+    "EctD": [
+      "K10674"
+    ],
+    "BetAB": [
+      "K00108",
+      "K00130"
+    ]
+  },
+  "meaning": "KO co-detection only; no adjacency, completeness or activity claim; functional interpretation pending independent definitions"
+}

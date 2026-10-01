@@ -1,0 +1,61 @@
+cff-version: 1.2.0
+message: >-
+  本代码/复现包对应的论文标题、作者按所提供稿件 manuscript_v6.md 原样照录。
+  稿件尚未给出 DOI、版本号或开源许可证，故本文件**不填写**任何 DOI / license
+  字段，以免编造。待作者确定后补齐 preferred-citation 的 doi 与 license。
+title: >-
+  Lineage structure and molecular diversity of microbial strategies across
+  terrestrial Mars analogues
+type: software
+authors:
+  - family-names: Sun
+    given-names: Ruxin
+    affiliation: >-
+      Key Laboratory of Biomechanics and Mechanobiology (Beihang University);
+      School of Biological Science and Medical Engineering, Beihang University,
+      Beijing 100083, China
+  - family-names: Yan
+    given-names: Shaocheng
+    affiliation: >-
+      Key Laboratory of Biomechanics and Mechanobiology (Beihang University);
+      School of Biological Science and Medical Engineering, Beihang University,
+      Beijing 100083, China
+  - family-names: Xu
+    given-names: Hang
+    affiliation: Deep Space Exploration Laboratory, Hefei 230000, China
+  - family-names: Ma
+    given-names: Jun
+    affiliation: China Academy of Space Technology, Beijing 100094, China
+  - family-names: Liu
+    given-names: Hong
+    affiliation: >-
+      Key Laboratory of Biomechanics and Mechanobiology (Beihang University);
+      School of Biological Science and Medical Engineering, Beihang University,
+      Beijing 100083, China
+  - family-names: Fu
+    given-names: Yuming
+    affiliation: >-
+      Key Laboratory of Biomechanics and Mechanobiology (Beihang University);
+      State Key Laboratory of Virtual Reality Technology and Systems; School of
+      Computer Science and Engineering, Beihang University, Beijing 100083,
+      China
+    email: fuyuming@buaa.edu.cn
+contact:
+  - family-names: Fu
+    given-names: Yuming
+    email: fuyuming@buaa.edu.cn
+keywords:
+  - Mars analogues
+  - microbial strategies
+  - phylogenomics
+  - cellular maintenance
+  - energy acquisition
+  - protein function prediction
+abstract: >-
+  Comparative-genomic analysis of lineage structure and molecular composition of
+  microbial survival and resource-acquisition repertoires across seven
+  metagenome-assembled genome catalogues, with an additional dryland catalogue
+  and an AI-prioritized protein family (DPFQ008) case study.
+date-released: "2026-10-01"
+version: "0.1.0"
+repository-code: "https://github.com/fuyuming/mars-analogue-genomic-strategies"

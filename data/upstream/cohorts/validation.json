@@ -1,0 +1,7 @@
+{
+  "system_rules_match_independent_definitions": true,
+  "state_counts_sum_to_cohort_sizes": true,
+  "all_conditional_ratios_match_counts": true,
+  "covariance_components_reconstruct_source_sse_and_r2": true,
+  "independent_review_scope": "source and output inspection; one arithmetic recomputation; not full rerun or manuscript review"
+}
