@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/celiosantosjr/CaCo/db50a80e974b4daedb217cf971a68c6079fc33e7/CaCo.py",
+    "sha256": "a23b142aec786328bc7866f3a75d9d437a297a0ba7070f3f1dda4cc9e6633bfc",
+    "bytes": 11184,
+    "path": "upstream/archived/CaCo.py"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/celiosantosjr/CaCo/db50a80e974b4daedb217cf971a68c6079fc33e7/data/substrate_key.json",
+    "sha256": "b1754def31209c675912b7a6674fa4bd69a31c755aac0cd8db979c3f7feb2a38",
+    "bytes": 9745,
+    "path": "upstream/archived/data__substrate_key.json"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/celiosantosjr/CaCo/c07dc2a7811cbe899f7271d5fb0661884b196bfa/CaCo.py",
+    "sha256": "6c31139a4aa2f8a4a8260b17348e0eac94e471d0d827a050de2c8dbb44f2d506",
+    "bytes": 24988,
+    "path": "upstream/current/CaCo.py"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/celiosantosjr/CaCo/c07dc2a7811cbe899f7271d5fb0661884b196bfa/data/substrate_key.json",
+    "sha256": "b1754def31209c675912b7a6674fa4bd69a31c755aac0cd8db979c3f7feb2a38",
+    "bytes": 9745,
+    "path": "upstream/current/data__substrate_key.json"
+  }
+]

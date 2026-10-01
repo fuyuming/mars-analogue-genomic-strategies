@@ -1,0 +1,23 @@
+{
+  "args": [
+    "/usr/bin/hmmsearch",
+    "--cpu",
+    "8",
+    "-E",
+    "1e-5",
+    "--domE",
+    "1e-5",
+    "--domtblout",
+    "<pilot-workdir>/pilot16.domtbl",
+    "-o",
+    "<pilot-workdir>/hmmsearch_summary.txt",
+    "<pilot-workdir>/dbCAN-HMMdb-V11.txt",
+    "<pilot-workdir>/pilot16.faa"
+  ],
+  "elapsed_sec": 362.0414915084839,
+  "raw_sha256": "c84c5d0797014e5f27a0df88fe71c6170b80c5a149e3014494152892e95592a3",
+  "db_sha256": "755b244c18f8627a7b446b6999eef7f5e02144ab00715f41417d3971820777d2",
+  "input_sha256": "deb6c5da9214050c3b063c871a200b6b8223a3317e12b2176bec67483ef9ec9b",
+  "source_raw_sha256": "eb6dd209103290ea01e116c6f0558d52d7ccfe0fc1a62a5736bed11dd20915bc",
+  "sanitization": "Only the private workdir in HMMER comment lines was replaced; every non-comment data row is unchanged."
+}

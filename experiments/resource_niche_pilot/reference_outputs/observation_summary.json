@@ -1,0 +1,22 @@
+{
+  "MAGs": 451,
+  "samples": 16,
+  "numeric_entries": 5011,
+  "missing_dash_entries": 2205,
+  "explicit_zero_entries": 31,
+  "all_numeric_per_MAG_equals_assembly_parent_count": true,
+  "by_assembly": [
+    {
+      "n_assembly_parents": 1,
+      "total": 147,
+      "primary": 139,
+      "strict": 43
+    },
+    {
+      "n_assembly_parents": 16,
+      "total": 304,
+      "primary": 297,
+      "strict": 69
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "python": "3.12.12",
+  "pandas": "3.0.1",
+  "numerical_reference_outputs_match": true,
+  "raw_header_sanitization_only": true,
+  "upstream_parser_extraction": "AST, pinned sha256",
+  "no_full_pipeline_replication_claim": true
+}

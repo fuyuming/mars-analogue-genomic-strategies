@@ -1,0 +1,17 @@
+genome	current_pairs	coverage_only_pairs	gained_by_coverage	lost_by_coverage	allseq_pairs	gained_by_preserving_families	lost_after_preserving_families	current_substrates	allseq_substrates
+NEE56_danakil__GCA_034190465.1	14	16	3	1	20	4	0	11	14
+NEE56_danakil__GCA_034190545.1	13	14	1	0	16	2	0	6	6
+NEE56_danakil__GCA_042218035.1	9	11	2	0	12	1	0	4	4
+NEE56_danakil__GCA_042218065.1	37	41	6	2	48	7	0	18	20
+NEE56_danakil__GCA_042218715.1	27	33	7	1	40	7	0	25	29
+NEE56_danakil__GCA_042219495.1	22	28	7	1	32	4	0	11	20
+NEE56_danakil__GCA_042219525.1	22	28	7	1	32	4	0	11	20
+NEE56_danakil__GCF_042216475.1	19	22	3	0	24	2	0	15	15
+NEE56_mackay__GCA_013697005.1	95	101	12	6	108	7	0	35	37
+NEE56_mackay__GCA_013697905.1	48	55	8	1	59	4	0	23	23
+NEE56_mackay__GCA_013697915.1	77	105	34	6	124	19	0	26	31
+NEE56_mackay__GCA_013815345.1	25	29	4	0	39	10	0	14	15
+NEE56_mackay__GCA_013815775.1	20	24	4	0	25	1	0	26	26
+NEE56_mackay__GCA_013816405.1	46	55	10	1	63	8	0	20	21
+NEE56_mackay__GCA_013816855.1	37	57	21	1	60	3	0	23	25
+NEE56_mackay__GCA_013817245.1	28	34	9	3	38	4	0	11	11

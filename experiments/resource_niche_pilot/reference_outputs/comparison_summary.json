@@ -1,0 +1,61 @@
+{
+  "genomes": 16,
+  "raw_domain_rows": 3738,
+  "per_policy_sums": {
+    "all_domain_gate": {
+      "proteins": 603,
+      "protein_family_pairs": 671,
+      "families": 304,
+      "substrate_categories": 282,
+      "substrates_without_cbm_only": 280,
+      "proteins_multiple_families": 64
+    },
+    "all_seq_gate": {
+      "proteins": 653,
+      "protein_family_pairs": 740,
+      "families": 339,
+      "substrate_categories": 317,
+      "substrates_without_cbm_only": 314,
+      "proteins_multiple_families": 81
+    },
+    "archived": {
+      "proteins": 539,
+      "protein_family_pairs": 539,
+      "families": 257,
+      "substrate_categories": 279,
+      "substrates_without_cbm_only": 279,
+      "proteins_multiple_families": 0
+    },
+    "coverage_only": {
+      "proteins": 653,
+      "protein_family_pairs": 653,
+      "families": 299,
+      "substrate_categories": 310,
+      "substrates_without_cbm_only": 308,
+      "proteins_multiple_families": 0
+    },
+    "current": {
+      "proteins": 539,
+      "protein_family_pairs": 539,
+      "families": 257,
+      "substrate_categories": 279,
+      "substrates_without_cbm_only": 279,
+      "proteins_multiple_families": 0
+    }
+  },
+  "proteins_with_overlapping_family_candidates": 50,
+  "coverage_discordant_domain_rows": {
+    "upstream_reject_model_accept": 436,
+    "upstream_accept_model_reject": 33
+  },
+  "genomes_changed_current_vs_allseq": 16,
+  "genomes_with_changed_substrate_sets": 10,
+  "raw_sha256": "eb6dd209103290ea01e116c6f0558d52d7ccfe0fc1a62a5736bed11dd20915bc",
+  "limitations": [
+    "Annotation method pilot only; no ecological hypothesis test.",
+    "Substrate mappings are candidate capabilities, not verified consumption.",
+    "All-family policies retain possible overlapping/ambiguous assignments.",
+    "Aggregated families/substrates sum per-genome counts, not unique totals.",
+    "Joint target database search is not a full per-genome CaCo reproduction."
+  ]
+}

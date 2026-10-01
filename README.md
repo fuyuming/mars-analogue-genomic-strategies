@@ -10,6 +10,10 @@ python bin/nee_recon.py joint
 
 The added-cohort workflow is `scripts/server/run_added_cohorts.py`; configure external tools and databases using the adjacent example JSON. It processes a frozen 607-record intake only after the current download has completed and all official checksums pass. These records are **candidates**, not accepted genomes or independent ecological samples. ANI and source/site deduplication are subsequent steps. The three corrected RefSeq URLs and complete download manifest are included under `data/accessions/`.
 
+## Resource-niche feasibility pilot
+
+The optional [resource-niche annotation pilot](experiments/resource_niche_pilot/README.md) reproduces a 16-MAG parser-sensitivity experiment and the Mackay missing-measurement audit. These are exploratory method checks, outside the manuscript results; they do not test competition or environmental mechanisms. Pinned upstream files are fetched and hash-checked separately.
+
 ## Earlier ten-figure reproduction notes
 
 The detailed notes below describe the inherited v6 figures. The v7 addition, FigS5, is generated directly from the frozen four-pair joint-state analysis. Current availability is determined by the figure manifest, not the historical ten-figure count.
