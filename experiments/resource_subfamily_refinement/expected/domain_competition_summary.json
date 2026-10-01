@@ -1,0 +1,41 @@
+[
+  {
+    "score_margin": 0,
+    "domains": 705,
+    "proteins": 663,
+    "status": {
+      "unmapped": 583,
+      "single_label_candidate": 90,
+      "ambiguous": 32
+    },
+    "single_label_non_CBM_GT": 81,
+    "HMO_domains": 0,
+    "HMO_genomes": 0
+  },
+  {
+    "score_margin": 10,
+    "domains": 705,
+    "proteins": 663,
+    "status": {
+      "unmapped": 559,
+      "single_label_candidate": 77,
+      "ambiguous": 69
+    },
+    "single_label_non_CBM_GT": 69,
+    "HMO_domains": 0,
+    "HMO_genomes": 0
+  },
+  {
+    "score_margin": 20,
+    "domains": 705,
+    "proteins": 663,
+    "status": {
+      "unmapped": 545,
+      "ambiguous": 98,
+      "single_label_candidate": 62
+    },
+    "single_label_non_CBM_GT": 57,
+    "HMO_domains": 0,
+    "HMO_genomes": 0
+  }
+]
