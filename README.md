@@ -164,3 +164,7 @@ python bin/nee_recon.py --input-root /path/to/repo --output-root /tmp/out plot f
 - 仍未打包（点名见 `reproducibility_report.md`）：服务器注释/系统发育管线、PyMC 后验阵列、
   DPFQ008 AI 模型检查点、原始 reads/recruitment 比对。
 - **未声称** "full raw-to-paper reproduction"；本 repo 不包含稿件、PDF、FASTA/BAM 或任何含 token 的日志/私有配置。
+
+### Expanded strict-quality sequence trees and paired source contrast
+
+[Reproducible strict-tree update](experiments/strict_tree_update/README.md) connects 1,243 final strict representatives to the frozen module panels and reports paired source contrasts, module dependence and exploratory sensitivity analyses. Primary-cohort inference is still pending; these are genomic-potential analyses, not evidence of environmental causality.

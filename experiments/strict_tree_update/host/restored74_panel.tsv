@@ -1,0 +1,75 @@
+KO	gene	definition	strategy_axis	module	module_display	submodule
+K00066	algD	GDP-mannose 6-dehydrogenase [EC:1.1.1.132]	surface_retention	biofilm_eps_surface	Extracellular polysaccharide-associated functions	alginate
+K00108	betA, CHDH	choline dehydrogenase [EC:1.1.99.1]	cell_maintenance	osmotic_desiccation_salt	Osmotic/solute and ion homeostasis	betaine
+K00130	betB, gbsA	betaine-aldehyde dehydrogenase [EC:1.2.1.8]	cell_maintenance	osmotic_desiccation_salt	Osmotic/solute and ion homeostasis	betaine
+K00383	GSR, gor	glutathione reductase (NADPH) [EC:1.8.1.7]	cell_maintenance	oxidative_redox	Oxidative/redox defence	thiol_redox
+K00384	trxB, TRR	thioredoxin reductase (NADPH) [EC:1.8.1.9]	cell_maintenance	oxidative_redox	Oxidative/redox defence	thiol_redox
+K00436	hoxH	NAD-reducing hydrogenase large subunit [EC:1.12.1.2]	energy_acquisition	trace_gas_energy	Hydrogen/CO metabolism and carbon fixation	hydrogenase
+K00437	hydB	[NiFe] hydrogenase large subunit [EC:1.12.2.1]	energy_acquisition	trace_gas_energy	Hydrogen/CO metabolism and carbon fixation	hydrogenase
+K00440	frhA	coenzyme F420 hydrogenase subunit alpha [EC:1.12.98.1]	energy_acquisition	trace_gas_energy	Hydrogen/CO metabolism and carbon fixation	hydrogenase
+K00441	frhB	coenzyme F420 hydrogenase subunit beta [EC:1.12.98.1]	energy_acquisition	trace_gas_energy	Hydrogen/CO metabolism and carbon fixation	hydrogenase
+K00694	bcsA	cellulose synthase (UDP-forming) [EC:2.4.1.12]	surface_retention	biofilm_eps_surface	Extracellular polysaccharide-associated functions	cellulose
+K00697	otsA	trehalose 6-phosphate synthase [EC:2.4.1.15 2.4.1.347]	cell_maintenance	osmotic_desiccation_salt	Osmotic/solute and ion homeostasis	trehalose
+K00836	ectB, dat	diaminobutyrate-2-oxoglutarate transaminase [EC:2.6.1.76]	cell_maintenance	osmotic_desiccation_salt	Osmotic/solute and ion homeostasis	ectoine
+K01087	otsB	trehalose 6-phosphate phosphatase [EC:3.1.3.12]	cell_maintenance	osmotic_desiccation_salt	Osmotic/solute and ion homeostasis	trehalose
+K01139	spoT	GTP diphosphokinase / guanosine-3',5'-bis(diphosphate) 3'-diphosphatase [EC:2.7.6.5 3.1.7.2]	cell_maintenance	dormancy_resuscitation	Sporulation and stringent response and Rpf	stringent_response
+K01546	kdpA	potassium-transporting ATPase potassium-binding subunit	cell_maintenance	osmotic_desiccation_salt	Osmotic/solute and ion homeostasis	potassium_homeostasis
+K01547	kdpB	potassium-transporting ATPase ATP-binding subunit [EC:7.2.2.6]	cell_maintenance	osmotic_desiccation_salt	Osmotic/solute and ion homeostasis	potassium_homeostasis
+K01548	kdpC	potassium-transporting ATPase KdpC subunit	cell_maintenance	osmotic_desiccation_salt	Osmotic/solute and ion homeostasis	potassium_homeostasis
+K01601	rbcL, cbbL	ribulose-bisphosphate carboxylase large chain [EC:4.1.1.39]	energy_acquisition	trace_gas_energy	Hydrogen/CO metabolism and carbon fixation	carbon_fixation
+K01602	rbcS, cbbS	ribulose-bisphosphate carboxylase small chain [EC:4.1.1.39]	energy_acquisition	trace_gas_energy	Hydrogen/CO metabolism and carbon fixation	carbon_fixation
+K01669	phr, PHR1	deoxyribodipyrimidine photo-lyase [EC:4.1.99.3]	cell_maintenance	dna_repair_radiation	DNA repair and protection	photorepair
+K02000	proV	glycine betaine/proline transport system ATP-binding protein [EC:7.6.2.9]	cell_maintenance	osmotic_desiccation_salt	Osmotic/solute and ion homeostasis	compatible_solute_transport
+K02001	proW	glycine betaine/proline transport system permease protein	cell_maintenance	osmotic_desiccation_salt	Osmotic/solute and ion homeostasis	compatible_solute_transport
+K02002	proX	glycine betaine/proline transport system substrate-binding protein	cell_maintenance	osmotic_desiccation_salt	Osmotic/solute and ion homeostasis	compatible_solute_transport
+K03386	PRDX2_4, ahpC	peroxiredoxin 2/4 [EC:1.11.1.24]	cell_maintenance	oxidative_redox	Oxidative/redox defence	peroxide_detox
+K03387	ahpF	NADH-dependent peroxiredoxin subunit F [EC:1.8.1.-]	cell_maintenance	oxidative_redox	Oxidative/redox defence	peroxide_detox
+K03518	coxS	aerobic carbon-monoxide dehydrogenase small subunit [EC:1.2.5.3]	energy_acquisition	trace_gas_energy	Hydrogen/CO metabolism and carbon fixation	carbon_monoxide
+K03519	coxM, cutM	aerobic carbon-monoxide dehydrogenase medium subunit [EC:1.2.5.3]	energy_acquisition	trace_gas_energy	Hydrogen/CO metabolism and carbon fixation	carbon_monoxide
+K03520	coxL, cutL	aerobic carbon-monoxide dehydrogenase large subunit [EC:1.2.5.3]	energy_acquisition	trace_gas_energy	Hydrogen/CO metabolism and carbon fixation	carbon_monoxide
+K03553	recA	recombination protein RecA	cell_maintenance	dna_repair_radiation	DNA repair and protection	recombination
+K03555	mutS	DNA mismatch repair protein MutS	cell_maintenance	dna_repair_radiation	DNA repair and protection	mismatch_repair
+K03572	mutL	DNA mismatch repair protein MutL	cell_maintenance	dna_repair_radiation	DNA repair and protection	mismatch_repair
+K03573	mutH	DNA mismatch repair protein MutH	cell_maintenance	dna_repair_radiation	DNA repair and protection	mismatch_repair
+K03581	recD	exodeoxyribonuclease V alpha subunit [EC:3.1.11.5]	cell_maintenance	dna_repair_radiation	DNA repair and protection	recombination
+K03582	recB	exodeoxyribonuclease V beta subunit [EC:3.1.11.5]	cell_maintenance	dna_repair_radiation	DNA repair and protection	recombination
+K03583	recC	exodeoxyribonuclease V gamma subunit [EC:3.1.11.5]	cell_maintenance	dna_repair_radiation	DNA repair and protection	recombination
+K03657	uvrD, pcrA	ATP-dependent DNA helicase UvrD/PcrA [EC:5.6.2.4]	cell_maintenance	dna_repair_radiation	DNA repair and protection	nucleotide_excision
+K03671	TXN, trxA	thioredoxin	cell_maintenance	oxidative_redox	Oxidative/redox defence	thiol_redox
+K03701	uvrA	excinuclease ABC subunit A	cell_maintenance	dna_repair_radiation	DNA repair and protection	nucleotide_excision
+K03702	uvrB	excinuclease ABC subunit B	cell_maintenance	dna_repair_radiation	DNA repair and protection	nucleotide_excision
+K03703	uvrC	excinuclease ABC subunit C	cell_maintenance	dna_repair_radiation	DNA repair and protection	nucleotide_excision
+K03704	cspA	cold shock protein	cell_maintenance	cold_protein_quality	Cold-associated RNA and lipid functions	cold_shock
+K03781	katE, CAT, catB, srpA	catalase [EC:1.11.1.6]	cell_maintenance	oxidative_redox	Oxidative/redox defence	peroxide_detox
+K03782	katG	catalase-peroxidase [EC:1.11.1.21]	cell_maintenance	oxidative_redox	Oxidative/redox defence	peroxide_detox
+K04047	dps	starvation-inducible DNA-binding protein	cell_maintenance	dna_repair_radiation	DNA repair and protection	dna_protection
+K04564	SOD2	superoxide dismutase, Fe-Mn family [EC:1.15.1.1]	cell_maintenance	oxidative_redox	Oxidative/redox defence	superoxide_detox
+K04565	SOD1	superoxide dismutase, Cu-Zn family [EC:1.15.1.1]	cell_maintenance	oxidative_redox	Oxidative/redox defence	superoxide_detox
+K04641	bop	bacteriorhodopsin	energy_acquisition	light_energy	Light-driven ion transport	rhodopsin
+K04642	hop	halorhodopsin	energy_acquisition	light_energy	Light-driven ion transport	rhodopsin
+K05343	treS	maltose alpha-D-glucosyltransferase / alpha-amylase [EC:5.4.99.16 3.2.1.1]	cell_maintenance	osmotic_desiccation_salt	Osmotic/solute and ion homeostasis	trehalose
+K05592	deaD, cshA	ATP-dependent RNA helicase DeaD [EC:5.6.2.7]	cell_maintenance	cold_protein_quality	Cold-associated RNA and lipid functions	rna_helicase
+K06381	spoIID	stage II sporulation protein D (peptidoglycan lytic transglycosylase) [EC:4.2.2.29]	cell_maintenance	dormancy_resuscitation	Sporulation and stringent response and Rpf	sporulation
+K06390	spoIIIAA	stage III sporulation protein AA	cell_maintenance	dormancy_resuscitation	Sporulation and stringent response and Rpf	sporulation
+K06718	ectA	L-2,4-diaminobutyric acid acetyltransferase [EC:2.3.1.178]	cell_maintenance	osmotic_desiccation_salt	Osmotic/solute and ion homeostasis	ectoine
+K06720	ectC	L-ectoine synthase [EC:4.2.1.108]	cell_maintenance	osmotic_desiccation_salt	Osmotic/solute and ion homeostasis	ectoine
+K07646	kdpD	two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]	cell_maintenance	osmotic_desiccation_salt	Osmotic/solute and ion homeostasis	potassium_homeostasis
+K07667	kdpE	two-component system, OmpR family, KDP operon response regulator KdpE	cell_maintenance	osmotic_desiccation_salt	Osmotic/solute and ion homeostasis	potassium_homeostasis
+K07699	spo0A	two-component system, response regulator, stage 0 sporulation protein A	cell_maintenance	dormancy_resuscitation	Sporulation and stringent response and Rpf	sporulation
+K10255	FAD6, desA	acyl-lipid omega-6 desaturase (Delta-12 desaturase) [EC:1.14.19.23 1.14.19.45]	cell_maintenance	cold_protein_quality	Cold-associated RNA and lipid functions	membrane_adaptation
+K10257	FAD3, FAD7, FAD8, desB	acyl-lipid omega-3 desaturase [EC:1.14.19.25 1.14.19.35 1.14.19.36]	cell_maintenance	cold_protein_quality	Cold-associated RNA and lipid functions	membrane_adaptation
+K10674	ectD	ectoine hydroxylase [EC:1.14.11.55]	cell_maintenance	osmotic_desiccation_salt	Osmotic/solute and ion homeostasis	ectoine
+K11180	dsrA	dissimilatory sulfite reductase alpha subunit [EC:1.8.1.22]	energy_acquisition	sulfur_chemolithotrophy	Sulfur metabolism	dissimilatory_sulfite
+K11181	dsrB	dissimilatory sulfite reductase beta subunit [EC:1.8.1.22]	energy_acquisition	sulfur_chemolithotrophy	Sulfur metabolism	dissimilatory_sulfite
+K11935	pgaA	biofilm PGA synthesis protein PgaA	surface_retention	biofilm_eps_surface	Extracellular polysaccharide-associated functions	pga
+K17222	soxA	L-cysteine S-thiosulfotransferase [EC:2.8.5.2]	energy_acquisition	sulfur_chemolithotrophy	Sulfur metabolism	sox
+K17223	soxX	L-cysteine S-thiosulfotransferase [EC:2.8.5.2]	energy_acquisition	sulfur_chemolithotrophy	Sulfur metabolism	sox
+K17224	soxB	S-sulfosulfanyl-L-cysteine sulfohydrolase [EC:3.1.6.20]	energy_acquisition	sulfur_chemolithotrophy	Sulfur metabolism	sox
+K17225	soxC	sulfane dehydrogenase subunit SoxC	energy_acquisition	sulfur_chemolithotrophy	Sulfur metabolism	sox
+K17229	fccB	sulfide dehydrogenase [flavocytochrome c] flavoprotein chain [EC:1.8.2.3]	energy_acquisition	sulfur_chemolithotrophy	Sulfur metabolism	sox
+K20543	bcsC	cellulose synthase operon protein C	surface_retention	biofilm_eps_surface	Extracellular polysaccharide-associated functions	cellulose
+K21687	rpfA	resuscitation-promoting factor RpfA	cell_maintenance	dormancy_resuscitation	Sporulation and stringent response and Rpf	resuscitation
+K21688	rpfB	resuscitation-promoting factor RpfB	cell_maintenance	dormancy_resuscitation	Sporulation and stringent response and Rpf	resuscitation
+K21689	rpfC	resuscitation-promoting factor RpfC	cell_maintenance	dormancy_resuscitation	Sporulation and stringent response and Rpf	resuscitation
+K21690	rpfD	resuscitation-promoting factor RpfD	cell_maintenance	dormancy_resuscitation	Sporulation and stringent response and Rpf	resuscitation
+K21691	rpfE	resuscitation-promoting factor RpfE	cell_maintenance	dormancy_resuscitation	Sporulation and stringent response and Rpf	resuscitation

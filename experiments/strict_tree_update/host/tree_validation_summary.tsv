@@ -1,0 +1,3 @@
+domain	tips	exact_tip_match	tree_sha256	internal_labeled	median_UFB	fraction_UFB_ge95	fraction_SH_ge80_and_UFB_ge95	zero_length_edges	terminal_branch_median	terminal_branch_max	terminal_branch_3IQR_flags	flag_note
+Bacteria	1193	True	406fce1aa0e07f6cd5434220970eb7572de2f1c53421999c3b5c951ceb4f81a9	1190	100.0	0.8815126050420168	0.8142857142857143	0	0.1239649405	1.5937716806	26	Descriptive long-branch flags, not exclusion rules
+Archaea	50	True	1c1047413e054df0f1e9af5257400d1379d2c7a72eb784f0ceb96d6ff08a243e	47	100.0	0.8936170212765957	0.8936170212765957	0	0.1368979978	0.5029463481	0	Descriptive long-branch flags, not exclusion rules

@@ -1,0 +1,37 @@
+[
+  {
+    "path": "host/previous53_common_tip_topology.tsv",
+    "bytes": 390,
+    "sha256": "9151029f35bfcd41148adc94d9d20539d9687265a2a4b0c58ee69b32b4e792cd"
+  },
+  {
+    "path": "host/restored74_panel.tsv",
+    "bytes": 11007,
+    "sha256": "819b14cf819362764908ed8e1750d00cd4069d07adb8da42803bfb35bb23158a"
+  },
+  {
+    "path": "host/strict1243_integrated_metadata.tsv",
+    "bytes": 612453,
+    "sha256": "9fa1af28ff8b441d546ef14dd2cc77804b7131df2bb184ba4be02aa7d343d715"
+  },
+  {
+    "path": "host/strict1243_module_breadth.tsv.gz",
+    "bytes": 174008,
+    "sha256": "4607061637a0275e88a15936b612657f855265e12f186d9169ae48b17f97510c"
+  },
+  {
+    "path": "host/tree_completed/inference/strict/ar53_LG_F_R10.treefile",
+    "bytes": 2389,
+    "sha256": "1c1047413e054df0f1e9af5257400d1379d2c7a72eb784f0ceb96d6ff08a243e"
+  },
+  {
+    "path": "host/tree_completed/inference/strict/bac120_LG_F_R10.treefile",
+    "bytes": 58551,
+    "sha256": "406fce1aa0e07f6cd5434220970eb7572de2f1c53421999c3b5c951ceb4f81a9"
+  },
+  {
+    "path": "host/tree_validation_summary.tsv",
+    "bytes": 638,
+    "sha256": "f627774384c868d96bad35acfa7ba01fd38a19fe4819cdc556613fd6967bdb0d"
+  }
+]
