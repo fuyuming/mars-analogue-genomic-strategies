@@ -1,0 +1,7 @@
+{
+  "genomes": 556,
+  "panel": 74,
+  "mapper_sha256": "b431ef02c70e12eb761a86a3a6c7416c392ce8c70d5b05267927784a4b306888",
+  "output_sha256": "7694cd67217a0a7a09bf010dca0f6bf8889f9a91f3797372749d5f946a8d4619",
+  "scope": "Accepted KO detection only. All genes inspected in existing completed annotation; not new HMM runs or pathway activity."
+}

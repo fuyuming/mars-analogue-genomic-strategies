@@ -1,0 +1,9 @@
+{
+  "input_context_sha256": "8db57dac287612e2dd98e23b86ce89177fca3ff2d84a10865481f10e65068c9b",
+  "verified_mapper_sha256": "b431ef02c70e12eb761a86a3a6c7416c392ce8c70d5b05267927784a4b306888",
+  "output_sha256": "6e6c3a7860e02a8893b87b63c6ff6af707706ac9dc51a2a59a50de0ab7ad9cbb",
+  "targets": 57,
+  "neighbour_proteins": 431,
+  "neighbour_proteins_with_accepted_KO": 161,
+  "scope": "Accepted KO labels only. No transporter specificity, uptake, ecological effect, or absence conclusion is inferred."
+}
