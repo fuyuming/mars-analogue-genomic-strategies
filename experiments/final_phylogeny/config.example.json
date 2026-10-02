@@ -1,0 +1,12 @@
+{
+  "root": "/absolute/path/to/fresh/output",
+  "gtdb_env": "/absolute/path/to/gtdbtk-2.5.2/env",
+  "gtdb_data": "/absolute/path/to/r226/full_package/release226",
+  "iqtree": "/absolute/path/to/iqtree2",
+  "expected_union": 4477,
+  "manifest_sha256": "SET_BY_BIND_SCRIPT",
+  "marker_threads": 32,
+  "tree_threads": 32,
+  "tree_memory": "96G",
+  "seed": 20261002
+}

@@ -10,6 +10,10 @@ python bin/nee_recon.py joint
 
 The added-cohort workflow is `scripts/server/run_added_cohorts.py`; configure external tools and databases using the adjacent example JSON. It processes a frozen 607-record intake only after the current download has completed and all official checksums pass. These records are **candidates**, not accepted genomes or independent ecological samples. ANI and source/site deduplication are subsequent steps. The three corrected RefSeq URLs and complete download manifest are included under `data/accessions/`.
 
+## Expanded-cohort phylogeny
+
+The [round 60 workflow](experiments/final_phylogeny/README.md) provides the frozen 4,477-genome input manifest and quality-specific tree inference code. Marker extraction has started; completed expanded trees and revised ecological conclusions are not yet available. External sequences and reference databases are required.
+
 ## Resource-niche feasibility pilot
 
 The optional [resource-niche annotation pilot](experiments/resource_niche_pilot/README.md) reproduces a 16-MAG parser-sensitivity experiment and the Mackay missing-measurement audit. These are exploratory method checks, outside the manuscript results; they do not test competition or environmental mechanisms. Pinned upstream files are fetched and hash-checked separately.
