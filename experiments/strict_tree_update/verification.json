@@ -1,0 +1,99 @@
+{
+  "commit": "eae53983e6f337a5a086c9f07bccd395f0723b76",
+  "steps": [
+    {
+      "script": "prepare_lineage_blocks.py",
+      "args": [],
+      "exit_code": 0
+    },
+    {
+      "script": "strict_paired_uncertainty.py",
+      "args": [],
+      "exit_code": 0
+    },
+    {
+      "script": "strict_sensitivity.py",
+      "args": [],
+      "exit_code": 0
+    },
+    {
+      "script": "strict_paired_uncertainty.py",
+      "args": [
+        "--block-kind",
+        "order"
+      ],
+      "exit_code": 0
+    },
+    {
+      "script": "verify_statistics_direct.py",
+      "args": [],
+      "exit_code": 0
+    },
+    {
+      "script": "plot_completed_strict.py",
+      "args": [],
+      "exit_code": 0
+    }
+  ],
+  "checks": [
+    {
+      "file": "strict_tree_lineage_mapping.tsv",
+      "rows": 1243,
+      "match_with_tolerance": true
+    },
+    {
+      "file": "strict_lineage_summary.tsv",
+      "rows": 47,
+      "match_with_tolerance": true
+    },
+    {
+      "file": "root_partition_sensitivity.tsv",
+      "rows": 2,
+      "match_with_tolerance": true
+    },
+    {
+      "file": "strict_paired_uncertainty.tsv",
+      "rows": 2,
+      "match_with_tolerance": true
+    },
+    {
+      "file": "strict_module_decomposition.tsv",
+      "rows": 14,
+      "match_with_tolerance": true
+    },
+    {
+      "file": "strict_source_panel_sensitivity.tsv",
+      "rows": 8,
+      "match_with_tolerance": true
+    },
+    {
+      "file": "strict_leave_one_catalogue.tsv",
+      "rows": 24,
+      "match_with_tolerance": true
+    },
+    {
+      "file": "tree_figure_source_data.tsv",
+      "rows": 987,
+      "match_with_tolerance": true
+    },
+    {
+      "file": "order_sensitivity/strict_paired_uncertainty.tsv",
+      "rows": 2,
+      "match_with_tolerance": true
+    },
+    {
+      "file": "direct_weighted_regression_checks.tsv",
+      "rows": 10,
+      "match_with_tolerance": true
+    }
+  ],
+  "inputs_sha256_match": true,
+  "figures_generated": 9,
+  "tolerance": 1e-10,
+  "versions": {
+    "numpy": "2.4.3",
+    "pandas": "3.0.1",
+    "matplotlib": "3.10.8",
+    "biopython": "1.88"
+  }
+}
