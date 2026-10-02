@@ -1,0 +1,42 @@
+[
+  {
+    "path": "host/additional_markers_new556.json",
+    "sha256": "a4a2df1199edbbe475dd19bc20942c3536da682290172a56386106c7f92a4409",
+    "bytes": 386139
+  },
+  {
+    "path": "host/all5477_expanded10_presence.tsv.gz",
+    "sha256": "0fcd963524f33f7d91c57b689ea33417f72580ae43303fff7ce63b4ba2e92744",
+    "bytes": 22860
+  },
+  {
+    "path": "host/frozen/all5477_restored74_presence.tsv.gz",
+    "sha256": "9388dc5b935ccf23f36bc9963402322299e4e2a3c8a8ac90ac89c6fd15909b3b",
+    "bytes": 65533
+  },
+  {
+    "path": "host/frozen/final_tree_tip_manifest.tsv",
+    "sha256": "c793333404703d33dadad9c318cb57fddebec8378bee802f964ed37e671da973",
+    "bytes": 441108
+  },
+  {
+    "path": "host/frozen/source_checked_primary_resource_links.tsv",
+    "sha256": "70c3cc27788facdf2f363a7d2e8feb1f14d99b738ce287ec49d76fe941066a01",
+    "bytes": 10902
+  },
+  {
+    "path": "host/frozen/source_checked_strict_resource_links.tsv",
+    "sha256": "bafa55f370dfcbf258f4c2ee7bb47d85e9c9f39de06e2cb32cae8ff52cb811da",
+    "bytes": 3069
+  },
+  {
+    "path": "host/frozen/union_genome_manifest.tsv",
+    "sha256": "45d92a4bbb50081db38ee712aa677ed005ea5e68acd3ddc4413bbb3bff55e948",
+    "bytes": 1712624
+  },
+  {
+    "path": "host/opu_original_coordinates.json",
+    "sha256": "b1f6ad77542beb5ed94c87a87770ffd1d1608efe406b053ffda57ef9382bc2db",
+    "bytes": 302321
+  }
+]

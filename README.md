@@ -168,3 +168,7 @@ python bin/nee_recon.py --input-root /path/to/repo --output-root /tmp/out plot f
 ### Expanded strict-quality sequence trees and paired source contrast
 
 [Reproducible strict-tree update](experiments/strict_tree_update/README.md) connects 1,243 final strict representatives to the frozen module panels and reports paired source contrasts, module dependence and exploratory sensitivity analyses. Primary-cohort inference is still pending; these are genomic-potential analyses, not evidence of environmental causality.
+
+### Detection scope and implementation comparability
+
+[Implementation-detection audit](experiments/implementation_detection_audit/README.md) checks known transporter forms omitted from the original small panel, original gene organization, lineage overlap and environmental sample support. It retains unsuccessful comparisons and does not claim a new adaptation mechanism.
