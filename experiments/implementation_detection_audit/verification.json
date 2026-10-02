@@ -1,0 +1,92 @@
+{
+  "analysis_commit": "006caa3cb16af22baa977e0ac8db86f97aada56f",
+  "steps": [
+    {
+      "script": "check_identifiability.py",
+      "exit_code": 0
+    },
+    {
+      "script": "check_expanded_detection.py",
+      "exit_code": 0
+    },
+    {
+      "script": "audit_opu_organization.py",
+      "exit_code": 0
+    },
+    {
+      "script": "compare_transport_signatures.py",
+      "exit_code": 0
+    },
+    {
+      "script": "check_finer_lineage.py",
+      "exit_code": 0
+    }
+  ],
+  "checks": [
+    {
+      "file": "signature_counts.tsv",
+      "rows": 16,
+      "match": true
+    },
+    {
+      "file": "pair_states.tsv",
+      "rows": 26,
+      "match": true
+    },
+    {
+      "file": "comparable_families.tsv",
+      "rows": 13,
+      "match": true
+    },
+    {
+      "file": "pump_regulator_discordance.tsv",
+      "rows": 8,
+      "match": true
+    },
+    {
+      "file": "resource_identifiability.tsv",
+      "rows": 8,
+      "match": true
+    },
+    {
+      "file": "expanded_detection_summary.tsv",
+      "rows": 8,
+      "match": true
+    },
+    {
+      "file": "expanded_resource_variation.tsv",
+      "rows": 10,
+      "match": true
+    },
+    {
+      "file": "opu_organization_summary.tsv",
+      "rows": 144,
+      "match": true
+    },
+    {
+      "file": "resource_local_triplet_summary.tsv",
+      "rows": 6,
+      "match": true
+    },
+    {
+      "file": "transport_pair_states.tsv",
+      "rows": 13,
+      "match": true
+    },
+    {
+      "file": "transport_comparable_families.tsv",
+      "rows": 9,
+      "match": true
+    },
+    {
+      "file": "transport_genus_both_states.tsv",
+      "rows": 22,
+      "match": true
+    }
+  ],
+  "input_hashes_match": true,
+  "versions": {
+    "numpy": "2.4.3",
+    "pandas": "3.0.1"
+  }
+}
