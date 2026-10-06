@@ -1,0 +1,55 @@
+{
+  "commit": "a966df6a3f90cf26e7ee0148b098902597893e5b",
+  "method": "fresh git archive extraction and six-step execution",
+  "steps": [
+    {
+      "script": "prepare_lineage_blocks.py",
+      "args": [],
+      "exit": 0
+    },
+    {
+      "script": "primary_paired_uncertainty.py",
+      "args": [],
+      "exit": 0
+    },
+    {
+      "script": "primary_sensitivity.py",
+      "args": [],
+      "exit": 0
+    },
+    {
+      "script": "primary_paired_uncertainty.py",
+      "args": [
+        "--block-kind",
+        "order"
+      ],
+      "exit": 0
+    },
+    {
+      "script": "verify_statistics_direct.py",
+      "args": [],
+      "exit": 0
+    },
+    {
+      "script": "module_specificity.py",
+      "args": [],
+      "exit": 0
+    }
+  ],
+  "tables_equal": [
+    "primary_tree_lineage_mapping.tsv",
+    "primary_paired_uncertainty.tsv",
+    "primary_source_panel_sensitivity.tsv",
+    "primary_leave_one_catalogue.tsv",
+    "module_source_partial_r2.tsv",
+    "osmotic_vs_other_modules.tsv",
+    "module_numeric_validation.tsv",
+    "order_sensitivity/primary_paired_uncertainty.tsv"
+  ],
+  "tolerance": {
+    "rtol": 1e-10,
+    "atol": 1e-12
+  },
+  "scope": "derived input to statistical table reproduction; no raw annotation rerun",
+  "repair": "First archive omitted globally ignored .gz; explicit input added and fresh archive rerun."
+}
