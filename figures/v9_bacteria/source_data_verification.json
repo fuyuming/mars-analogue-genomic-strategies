@@ -1,0 +1,18 @@
+{
+  "all_three_source_tables_match_host": true,
+  "files": [
+    {
+      "file": "figure1_primary_tree_source.tsv",
+      "sha256": "e8853f617c4efc9ce886a9cb2caf01cd59380958042b54b244c5a4b443bd0449"
+    },
+    {
+      "file": "figure3_module_comparison_source.tsv",
+      "sha256": "9475378a0b09ae3aafa27fb7b893cc8189f267e0630e0726b675a02b86dd8d7a"
+    },
+    {
+      "file": "figure2_quality_contrast_source.tsv",
+      "sha256": "487f281c6b52abb00c00d4e5ecc81f160521dad947b7ff8c0a535df126e2c580"
+    }
+  ],
+  "scope": "plotting-only comparison; no inference rerun"
+}

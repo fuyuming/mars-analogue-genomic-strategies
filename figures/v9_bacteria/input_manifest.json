@@ -1,0 +1,34 @@
+[
+  {
+    "path": "inputs/primary/bac120.treefile",
+    "sha256": "c7047538aa94b1623b4eb0f77eb96daf7ae795b05ddfb04a055fa26ae2f42fd8"
+  },
+  {
+    "path": "inputs/primary/module_source_partial_r2.tsv",
+    "sha256": "775085747ab465d6da1b2f128434c3bb9efb2ace3d6ba41c9fe3e471b8ec321f"
+  },
+  {
+    "path": "inputs/primary/primary4465_integrated_metadata.tsv",
+    "sha256": "a336211f1ccf193bfe3f42092ffe559ffa3bd525de77cb20ffbdba95719554c0"
+  },
+  {
+    "path": "inputs/primary/primary4465_module_breadth.tsv.gz",
+    "sha256": "3e4a8394161b1c007632b84a8bfb938847d9fdfbc9d577933e09e23d0c54f6e7"
+  },
+  {
+    "path": "inputs/primary/primary_paired_uncertainty.tsv",
+    "sha256": "bf1b64efde2325dec9a6d953fbfd94654bc5169709ff2d155e88851aa0fed502"
+  },
+  {
+    "path": "inputs/primary/primary_tree_lineage_mapping.tsv",
+    "sha256": "9e979fb31dc6d40401788298ce6f00c787f5012253f02be0d8109aeb9f1081aa"
+  },
+  {
+    "path": "inputs/strict/module_source_partial_r2.tsv",
+    "sha256": "947f4bafa420dd3361b957fa3a1a0a1795037f8d54fc572e88ebca4108b4d732"
+  },
+  {
+    "path": "inputs/strict/strict_paired_uncertainty.tsv",
+    "sha256": "bd88dccff38f33077ef4a85de8a83fdab946194c426cf78c4dd33387a95d1b7b"
+  }
+]

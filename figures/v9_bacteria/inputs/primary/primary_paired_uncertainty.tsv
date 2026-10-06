@@ -1,0 +1,3 @@
+branch	block_kind	n	lineage_blocks	catalogues	maintenance_partial_R2	energy_partial_R2	delta_point	delta_BB_mean	delta_q025	delta_q975	Pr_delta_positive	draws	scope
+core65	tree	4026	36	12	0.051701374140692535	0.021595136591853636	0.0301062375488389	0.028510333747400245	-0.0018634118372739981	0.053474282327548785	0.968	2000	Paired block Bayesian bootstrap conditional on observed catalogues; not environmental-effect posterior
+restored74	tree	4026	36	12	0.04669499971758351	0.021595136591853636	0.02509986312572987	0.023907370875482243	-0.006415729700868811	0.04995763593009124	0.9525	2000	Paired block Bayesian bootstrap conditional on observed catalogues; not environmental-effect posterior

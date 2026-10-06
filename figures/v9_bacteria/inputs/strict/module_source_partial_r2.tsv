@@ -1,0 +1,15 @@
+branch	module	median	q025	q975	Pr_positive	point	scope
+core65	cold_protein_quality	0.048218428645142475	0.021657684958966077	0.0882233889335435	1.0	0.03843131690712043	post-result module-wise source partial R2; conditional on strict bacterial cohort and observed catalogues
+core65	dna_repair_radiation	0.040150888007419616	0.01830092191365576	0.07980357881604926	1.0	0.03290640865100192	post-result module-wise source partial R2; conditional on strict bacterial cohort and observed catalogues
+core65	dormancy_resuscitation	0.045582387073204056	0.019621793199191166	0.0939384273118011	1.0	0.041575949299903714	post-result module-wise source partial R2; conditional on strict bacterial cohort and observed catalogues
+core65	osmotic_desiccation_salt	0.172057323950229	0.13709571020085387	0.2542936995379654	1.0	0.16592311938731885	post-result module-wise source partial R2; conditional on strict bacterial cohort and observed catalogues
+core65	oxidative_redox	0.06182162774138972	0.03964525967618423	0.10028438709447438	1.0	0.05341226021206236	post-result module-wise source partial R2; conditional on strict bacterial cohort and observed catalogues
+core65	sulfur_chemolithotrophy	0.024212621227762077	0.006065143727189045	0.058480480983836444	1.0	0.02665890633709911	post-result module-wise source partial R2; conditional on strict bacterial cohort and observed catalogues
+core65	trace_gas_energy	0.03315750561664571	0.013850577366490507	0.08135365695024302	1.0	0.020928888107439647	post-result module-wise source partial R2; conditional on strict bacterial cohort and observed catalogues
+restored74	cold_protein_quality	0.05231976906571634	0.022764421246343834	0.09810425154086817	1.0	0.042074267265332144	post-result module-wise source partial R2; conditional on strict bacterial cohort and observed catalogues
+restored74	dna_repair_radiation	0.039920562226572476	0.01716660140366029	0.0808645128945934	1.0	0.03371070407706944	post-result module-wise source partial R2; conditional on strict bacterial cohort and observed catalogues
+restored74	dormancy_resuscitation	0.04098435328887384	0.017963732211311777	0.08561107932471253	1.0	0.03336045812274324	post-result module-wise source partial R2; conditional on strict bacterial cohort and observed catalogues
+restored74	osmotic_desiccation_salt	0.15106289543284096	0.11909134831043784	0.24089248254170564	1.0	0.14504798892143267	post-result module-wise source partial R2; conditional on strict bacterial cohort and observed catalogues
+restored74	oxidative_redox	0.06182162774138972	0.03964525967618423	0.10028438709447438	1.0	0.05341226021206236	post-result module-wise source partial R2; conditional on strict bacterial cohort and observed catalogues
+restored74	sulfur_chemolithotrophy	0.024212621227762077	0.006065143727189045	0.058480480983836444	1.0	0.02665890633709911	post-result module-wise source partial R2; conditional on strict bacterial cohort and observed catalogues
+restored74	trace_gas_energy	0.03315750561664571	0.013850577366490507	0.08135365695024302	1.0	0.020928888107439647	post-result module-wise source partial R2; conditional on strict bacterial cohort and observed catalogues
