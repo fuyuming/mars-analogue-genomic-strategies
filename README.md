@@ -172,3 +172,7 @@ python bin/nee_recon.py --input-root /path/to/repo --output-root /tmp/out plot f
 ### Detection scope and implementation comparability
 
 [Implementation-detection audit](experiments/implementation_detection_audit/README.md) checks known transporter forms omitted from the original small panel, original gene organization, lineage overlap and environmental sample support. It retains unsuccessful comparisons and does not claim a new adaptation mechanism.
+
+## Expanded bacterial figures (6 October 2026)
+
+The three revised tree/portfolio/module figures and their frozen input contract are reproducible from [`figures/v9_bacteria`](figures/v9_bacteria). Fresh archive execution reproduced all three source tables. The full manuscript remains private; this code release does not claim manuscript acceptance or raw-to-paper reproduction.

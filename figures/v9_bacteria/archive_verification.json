@@ -1,0 +1,11 @@
+{
+  "commit": "92981efb6021efb03cebe49e74d0e5a615b480b1",
+  "method": "fresh git archive with plotting execution",
+  "source_tables_identical": [
+    "figure1_primary_tree_source.tsv",
+    "figure3_module_comparison_source.tsv",
+    "figure2_quality_contrast_source.tsv"
+  ],
+  "outputs": 12,
+  "scope": "numerical source data; font-dependent rendering may differ on other systems"
+}
